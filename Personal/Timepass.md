@@ -1,4 +1,0 @@
-
-* Score Cricket
-* channa
-* 

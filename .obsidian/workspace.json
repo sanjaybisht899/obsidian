@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Tasks.md",
+                "file": "Abstract & Interface.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "Abstract & Interface"
             }
           }
         ]
@@ -187,9 +187,10 @@
   },
   "active": "8384c5504fd7b441",
   "lastOpenFiles": [
-    "Personal/All the questions.md",
-    "Personal/Tasks.md",
+    "Untitled.md",
     "Abstract & Interface.md",
+    "Personal/Tasks.md",
+    "Personal/All the questions.md",
     "Personal/Timepass.md",
     "My Notes/JavaScript/1. Execution Context.md",
     "My Notes/JavaScript/Media/Pasted image 20250128012205.png",
@@ -197,7 +198,6 @@
     "My Notes/JavaScript/Media",
     "My Notes/Java/1. Core/4. Exception Handling.md",
     "My Notes/JavaScript",
-    "Untitled.md",
     "My Notes/Java/1. Core/10. Misc.md",
     "My Notes/Java/2. Spring Boot/Phase 3/2. Spring Cloud.md",
     "My Notes/Java/2. Spring Boot/Phase 2/8. A.O.P.md",

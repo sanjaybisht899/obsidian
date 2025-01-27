@@ -1,0 +1,15 @@
+- [x] Wash Clothes ✅ 2025-01-28
+- [ ] Press Clothes
+- [ ] Fix The Curtains
+- [x] Update The Split-wise ✅ 2025-01-28
+- [x] Bike bill + Meter readings ✅ 2025-01-19
+- [x] Grah Jyoti Ask Owner to ✅ 2025-01-19
+- [ ] call sahil kandwal 
+- [ ] Complete Obsedian Setup
+	- https://www.youtube.com/watch?v=6s6DT1yN4dw&t=862s -- github pages
+	- https://www.youtube.com/watch?v=OUrOfIqvGS4 -- Getting Started 
+	- https://www.youtube.com/watch?v=XR7PYaMVDw0 -- git setup
+	- https://www.youtube.com/watch?v=5YZz38U20ws&t=4s -- github syn
+- [ ] Update resume everywhere
+- [x] create a roadmap as mentioned by Vivek ✅ 2025-01-28
+- [ ] 

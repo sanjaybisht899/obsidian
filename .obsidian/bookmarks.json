@@ -1,0 +1,48 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1736286618357,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1736286618357,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1736286618357,
+              "items": [],
+              "title": "Java"
+            }
+          ],
+          "title": "My Notes"
+        },
+        {
+          "type": "group",
+          "ctime": 1736286749999,
+          "items": [],
+          "title": "Archive"
+        },
+        {
+          "type": "group",
+          "ctime": 1736286749999,
+          "items": [],
+          "title": "Excalidraw"
+        },
+        {
+          "type": "group",
+          "ctime": 1736286749999,
+          "items": [],
+          "title": "Work"
+        },
+        {
+          "type": "file",
+          "ctime": 1736286749999,
+          "path": "Learn the Fundamentals.md",
+          "subpath": "#^-"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}

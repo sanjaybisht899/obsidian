@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "e1136001d3d93f0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e7f5ff30f01243e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8384c5504fd7b441",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Tasks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tasks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8859e4f684e1e6f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "00a5d8ed5da98c09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cad615c2d501338",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7a6349b8b252fc13",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tas",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a3d398bf0486a42e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 419.5
+  },
+  "right": {
+    "id": "e61bdcae49643900",
+    "type": "split",
+    "children": [
+      {
+        "id": "33ed7db849c9eeeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3810c9f94bdd332e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "My Notes/Java/2. Spring Boot/Phase 1/4. Annotations.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 4. Annotations"
+            }
+          },
+          {
+            "id": "2f21b0ff3d08855f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "My Notes/Java/2. Spring Boot/Phase 1/4. Annotations.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 4. Annotations"
+            }
+          },
+          {
+            "id": "6e8fafe0402f68e5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9ff37f7d73a30807",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "My Notes/Java/2. Spring Boot/Phase 1/4. Annotations.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 4. Annotations"
+            }
+          },
+          {
+            "id": "a3a5effc1749f360",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "ebdf87e4ac8e5154",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "custom-sort:Toggle custom sorting": false
+    }
+  },
+  "active": "8384c5504fd7b441",
+  "lastOpenFiles": [
+    "Personal/All the questions.md",
+    "Personal/Tasks.md",
+    "Abstract & Interface.md",
+    "Personal/Timepass.md",
+    "My Notes/JavaScript/1. Execution Context.md",
+    "My Notes/JavaScript/Media/Pasted image 20250128012205.png",
+    "Pasted image 20250128012203.png",
+    "My Notes/JavaScript/Media",
+    "My Notes/Java/1. Core/4. Exception Handling.md",
+    "My Notes/JavaScript",
+    "Untitled.md",
+    "My Notes/Java/1. Core/10. Misc.md",
+    "My Notes/Java/2. Spring Boot/Phase 3/2. Spring Cloud.md",
+    "My Notes/Java/2. Spring Boot/Phase 2/8. A.O.P.md",
+    "My Notes/Java/2. Spring Boot/Phase 2/7. Actuators.md",
+    "Archive/Daily/2025/Jan/2025-01-27.md",
+    "Work/Work Pending.md",
+    "My Notes/Others/GPT Prompts.md",
+    "My Notes/Java/1. Core/5. Collection Framework.md",
+    "My Notes/Java/1. Core/6. Threads.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/8. Database Connection Setup.md",
+    "My Notes/Java/1. Core/8. Java Versions.md",
+    "My Notes/Java/1. Core/7.4 Other Features.md",
+    "My Notes/Java/1. Core/9. Memory & GC.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/2. Create Spring Boot.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/1. Topics.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/3. Maven and Gradle.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/5. Spring Profile.md",
+    "My Notes/Java/3. Hibernate/1. Intro.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/6. HTTP Annotations.md",
+    "Personal",
+    "My Notes/Java/2. Spring Boot/Phase 4",
+    "My Notes/React",
+    "My Notes/Java/Media/Pasted image 20250119170609.png",
+    "My Notes/Others",
+    "My Notes/Java/2. Spring Boot/Phase 1/Images/Pasted image 20250118233100.png",
+    "My Notes/Java/2. Spring Boot/Phase 1/Images",
+    "My Notes/Java/2. Spring Boot/Phase 3",
+    "My Notes/Java/2. Spring Boot/Phase 2",
+    "My Notes/Java/2. Spring Boot/Phase 1",
+    "My Notes/Java/Media/Pasted image 20250111004514.png",
+    "Work/Media/Pasted image 20250110135458.png",
+    "Work/Media/Pasted image 20250115141146.png",
+    "Pasted image 20250110135340.png",
+    "Pasted image 20250110103245.png",
+    "Pasted image 20250110134602.png",
+    "Untitled.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas"
+  ]
+}

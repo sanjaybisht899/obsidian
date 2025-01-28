@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abstract & Interface.md",
+                "file": "My Notes/JavaScript/Core/5. Global Object & this.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abstract & Interface"
+              "title": "5. Global Object & this"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419.5
+    "width": 389.5
   },
   "right": {
     "id": "e61bdcae49643900",
@@ -146,16 +146,6 @@
             }
           },
           {
-            "id": "a3a5effc1749f360",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
             "id": "ebdf87e4ac8e5154",
             "type": "leaf",
             "state": {
@@ -166,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -187,12 +177,22 @@
   },
   "active": "8384c5504fd7b441",
   "lastOpenFiles": [
-    "Untitled.md",
+    "My Notes/JavaScript/Core/Untitled 3.md",
+    "My Notes/JavaScript/Core/5. Global Object & this.md",
+    "My Notes/JavaScript/Core/4. Functions & Variable Env.md",
+    "My Notes/JavaScript/Core/3. Hoisting in JavaScript.md",
+    "My Notes/JavaScript/Core/2. JS Execution & Call Stack.md",
+    "My Notes/JavaScript/Core/1. Execution Context.md",
+    "My Notes/JavaScript/Core/Untitled 3 1.md",
+    "My Notes/JavaScript/Core/Untitled 3 1 1 1 1.md",
+    "My Notes/JavaScript/Core/Untitled 3 1 1 1.md",
+    "My Notes/JavaScript/Core/Untitled 3 1 1.md",
+    "My Notes/JavaScript/Core",
     "Abstract & Interface.md",
+    "Untitled.md",
     "Personal/Tasks.md",
     "Personal/All the questions.md",
     "Personal/Timepass.md",
-    "My Notes/JavaScript/1. Execution Context.md",
     "My Notes/JavaScript/Media/Pasted image 20250128012205.png",
     "Pasted image 20250128012203.png",
     "My Notes/JavaScript/Media",
@@ -208,15 +208,6 @@
     "My Notes/Java/1. Core/5. Collection Framework.md",
     "My Notes/Java/1. Core/6. Threads.md",
     "My Notes/Java/2. Spring Boot/Phase 1/8. Database Connection Setup.md",
-    "My Notes/Java/1. Core/8. Java Versions.md",
-    "My Notes/Java/1. Core/7.4 Other Features.md",
-    "My Notes/Java/1. Core/9. Memory & GC.md",
-    "My Notes/Java/2. Spring Boot/Phase 1/2. Create Spring Boot.md",
-    "My Notes/Java/2. Spring Boot/Phase 1/1. Topics.md",
-    "My Notes/Java/2. Spring Boot/Phase 1/3. Maven and Gradle.md",
-    "My Notes/Java/2. Spring Boot/Phase 1/5. Spring Profile.md",
-    "My Notes/Java/3. Hibernate/1. Intro.md",
-    "My Notes/Java/2. Spring Boot/Phase 1/6. HTTP Annotations.md",
     "Personal",
     "My Notes/Java/2. Spring Boot/Phase 4",
     "My Notes/React",
@@ -226,7 +217,6 @@
     "My Notes/Java/2. Spring Boot/Phase 1/Images",
     "My Notes/Java/2. Spring Boot/Phase 3",
     "My Notes/Java/2. Spring Boot/Phase 2",
-    "My Notes/Java/2. Spring Boot/Phase 1",
     "My Notes/Java/Media/Pasted image 20250111004514.png",
     "Work/Media/Pasted image 20250110135458.png",
     "Work/Media/Pasted image 20250115141146.png",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Notes/JavaScript/Core/5. Global Object & this.md",
+                "file": "My Notes/JavaScript/Core/7. Scope & Lexical Environment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Global Object & this"
+              "title": "7. Scope & Lexical Environment"
             }
           }
         ]
@@ -177,13 +177,13 @@
   },
   "active": "8384c5504fd7b441",
   "lastOpenFiles": [
-    "My Notes/JavaScript/Core/Untitled 3.md",
+    "My Notes/JavaScript/Core/6. Undefined vs Not Defined.md",
     "My Notes/JavaScript/Core/5. Global Object & this.md",
     "My Notes/JavaScript/Core/4. Functions & Variable Env.md",
     "My Notes/JavaScript/Core/3. Hoisting in JavaScript.md",
     "My Notes/JavaScript/Core/2. JS Execution & Call Stack.md",
     "My Notes/JavaScript/Core/1. Execution Context.md",
-    "My Notes/JavaScript/Core/Untitled 3 1.md",
+    "My Notes/JavaScript/Core/7. Scope & Lexical Environment.md",
     "My Notes/JavaScript/Core/Untitled 3 1 1 1 1.md",
     "My Notes/JavaScript/Core/Untitled 3 1 1 1.md",
     "My Notes/JavaScript/Core/Untitled 3 1 1.md",

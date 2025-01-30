@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Notes/JavaScript/Core/Part 2/11. setTimeout + Closures.md",
+                "file": "My Notes/JavaScript/Core/Part 2/13. First-Class Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. setTimeout + Closures"
+              "title": "13. First-Class Functions"
             }
           }
         ],
@@ -192,19 +192,19 @@
   },
   "active": "55be75be284f841a",
   "lastOpenFiles": [
+    "My Notes/JavaScript/Core/Part 2/12. Closure Interview Questions.md",
+    "My Notes/JavaScript/Core/Part 2/11. setTimeout + Closures.md",
+    "My Notes/JavaScript/Core/Part 1/9. Block Scope & Shadowing.md",
+    "My Notes/JavaScript/Core/Part 1/10. Closers.md",
     "My Notes/JavaScript/Core/Part 2/asd 1 2.md",
     "My Notes/JavaScript/Core/Part 2/asd 1 3.md",
-    "My Notes/JavaScript/Core/Part 1/10. Closers.md",
     "My Notes/JavaScript/Core/Part 2",
     "My Notes/JavaScript/Core/Part 1",
-    "My Notes/JavaScript/Core/Part 2/11. setTimeout + Closures.md",
     "My Notes/JavaScript/Core/Part 2/Untitled 3 1 1 1 1.md",
     "My Notes/JavaScript/Core/Part 2/asd 1 1 1 1 1 1.md",
     "My Notes/JavaScript/Core/Part 2/asd 1 1 1 1 1.md",
     "My Notes/JavaScript/Core/Part 2/asd 1 1 1 1.md",
-    "My Notes/JavaScript/Core/Part 2/asd 1 1 1.md",
-    "My Notes/JavaScript/Core/Part 2/asd 1 1.md",
-    "My Notes/JavaScript/Core/Part 1/9. Block Scope & Shadowing.md",
+    "My Notes/JavaScript/Core/Part 2/13. First-Class Functions.md",
     "My Notes/JavaScript/Core/Part 1/8. let & const.md",
     "Questions.md",
     "Abstract & Interface.md",

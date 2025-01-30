@@ -30,4 +30,32 @@ transaction management in java
 - - Multi-threading and ExecutorService, threadpool
 - - Adapter pattern
 - 2 thread odd even print -- context switching odd even
-- 
+
+
+
+Fibonacci series with memory optimisation, multi threading and lock concepts on code, questions on spring
+
+write test case in java springboot
+
+
+java memory allocation
+
+what things I can do to make a application secure  java
+
+
+@controller advice
+@exceptionhandler
+
+- Spring Security (JWT, OAuth2.0)
+cllass ko mutable --
+
+oberservable design pattern
+
+nullable keyword
+
+java stream using map
+
+--------
+misc 
+
+what exactly is agile?

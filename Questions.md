@@ -31,17 +31,13 @@ transaction management in java
 - - Adapter pattern
 - 2 thread odd even print -- context switching odd even
 
-
-
 Fibonacci series with memory optimisation, multi threading and lock concepts on code, questions on spring
 
 write test case in java springboot
 
-
 java memory allocation
 
 what things I can do to make a application secure  java
-
 
 @controller advice
 @exceptionhandler
@@ -59,3 +55,56 @@ java stream using map
 misc 
 
 what exactly is agile?
+
+b. The candidate should be able to write unit test cases for
+verifying the solution.
+c. Candidate should be able to use Java 8+ versions.
+d. Candidate should be able to write Java 8+ code for given
+scenarios.
+e. Candidate should know the concepts of selecting proper
+Data Structures and Algorithm Techniques for Given
+Problems.
+f. Candidate should be able to complete each problem within
+20 to 25 minutes.
+g. There would be three problems, the candidate should solve.
+
+TECHNICAL INTERVIEW – II
+1. ID Verification: With clear visibility, the candidate should start the
+video and present government-approved ID Proof to HR or
+Interviewer.
+2. The Interview Duration would be 90 Minutes after verification of ID
+Proof.
+1. During the 90 Minutes:
+a. first two minutes, the interviewer introduces himself to the
+candidate.
+b. next five minutes the candidate introduces his achievement
+and talks about his career.
+c. After introductions, the next 60 to 70 minutes of technical
+discussion.
+d. The last 10 minutes of the interview duration will be
+dedicated to the questions from the candidate.
+
+2. Discussion and Coding:
+a. Discussion on the current project, roles, and Responsibilities
+b. Java Version 8+ Questions
+i. JVM
+ii. Multi-Threading
+iii. Stream
+iv. Lambda
+v. Functional Interfaces
+vi. Collections
+vii. Date time APIs
+viii. JVM memory model and architecture
+c. Coding questions one or two
+d. Should write Unit test cases.
+i. Questions on various testing methods
+e. Framework-related questions
+i. Spring Framework
+ii. REST API and So on.
+f. SDLC – AGILE Related Questions
+
+g. Estimation techniques
+h. Design related Questions.
+i. Architecture and Architecture Patterns
+j. Mentoring, Learning and Lead related questions.
+

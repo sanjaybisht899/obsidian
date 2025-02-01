@@ -12,7 +12,9 @@ java 8 comparator
 how to print odd even using mutlithreading
 changes in java8 memory management
 
-different port confire using different env
+different port 
+
+using different env
 
 
 terminal operator
@@ -108,3 +110,31 @@ h. Design related Questions.
 i. Architecture and Architecture Patterns
 j. Mentoring, Learning and Lead related questions.
 
+
+
+Serlizable ,
+
+without transient keyword
+
+
+1. Difference between Spring and Spring Boot  
+2. How does a Spring Boot application determine the active profile?  
+3. How to integrate multiple databases in a Spring Boot application?  
+4. What is the difference between a Filter and an Interceptor?  
+5. Explain the MVC workflow from frontend to backend.  
+6. Authorization vs Authentication.  
+7. How do you connect to a database in Spring Boot?  
+8. Can we maintain sessions in REST APIS?  
+9. What is Lombok?  
+10. What is the Dispatcher Servlet?  
+11. What are Spring Security and Spring Cloud?  
+12. What is the IOC Container?  
+13. What is Dependency Injection and its types? Which is recommended and why?  
+14. What does @SpringBootApplication do?  
+15. @Qualifier vs @Primary  
+16. @RestController vs @Controller  
+17. @RequestParam vs @PathVariable  
+18. @Component vs @ComponentScan  
+19. @ExceptionHandler vs @ControllerAdvice  
+20. What is Spring Boot Actuator and how is it useful?  
+21. What are the HTTP Methods you frequently use?

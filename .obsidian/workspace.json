@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Notes/Java/2. Spring Boot/Phase 4/1. Inter-Service Communication.md",
+                "file": "My Notes/Java/1. Core/3.1 Inheritance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Inter-Service Communication"
+              "title": "3.1 Inheritance"
             }
           }
         ],
@@ -207,6 +207,10 @@
   },
   "active": "f69e131816424111",
   "lastOpenFiles": [
+    "My Notes/Java/1. Core/3. OOPs.md",
+    "My Notes/Java/1. Core/2. Static.md",
+    "My Notes/Java/1. Core/1. Basics.md",
+    "My Notes/Java/2. Spring Boot/Phase 4/1. Inter-Service Communication.md",
     "My Notes/Java/2. Spring Boot/Phase 4/8. Event-Driven Architecture.md",
     "My Notes/Java/2. Spring Boot/Phase 4/0. Topics.md",
     "My Notes/Java/2. Spring Boot/Phase 4/7. Spring Cloud Bus.md",
@@ -214,7 +218,6 @@
     "My Notes/Java/2. Spring Boot/Phase 4/6. Distributed Tracing.md",
     "My Notes/Java/2. Spring Boot/Phase 4/5. Circuit Breakers & Retry.md",
     "My Notes/Java/2. Spring Boot/Phase 4/4. Resilience4j.md",
-    "My Notes/Java/2. Spring Boot/Phase 4/1. Inter-Service Communication.md",
     "My Notes/Java/2. Spring Boot/Phase 4/3. FeignClient.md",
     "My Notes/Java/2. Spring Boot/Phase 4/2. RestTemplate.md",
     "Questions.md",
@@ -233,9 +236,6 @@
     "My Notes/JavaScript/Core/Part 3/26..md",
     "My Notes/JavaScript/Core/Part 3/25..md",
     "My Notes/JavaScript/Core/Part 3/24..md",
-    "My Notes/JavaScript/Core/Part 3/23.md",
-    "My Notes/JavaScript/Core/Part 3/22..md",
-    "My Notes/JavaScript/Core/Part 3/21. Promises.md",
     "My Notes/JavaScript/Core/Part 3",
     "My Notes/JavaScript/Core/Part 2",
     "My Notes/JavaScript/Core/Part 1",

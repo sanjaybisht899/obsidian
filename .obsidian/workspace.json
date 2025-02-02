@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Notes/Java/2. Spring Boot/Phase 1/5. Spring Profile.md",
+                "file": "My Notes/Java/2. Spring Boot/Phase 2/8. A.O.P.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Spring Profile"
+              "title": "8. A.O.P"
             }
           }
         ],
@@ -207,6 +207,14 @@
   },
   "active": "f69e131816424111",
   "lastOpenFiles": [
+    "My Notes/Java/2. Spring Boot/Phase 1/12. Spring Scopes.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/11. Batch & Scheduling.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/10. Spring Boot DevTools.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/9. Spring Data JPA.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/8. Database Connection Setup.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/7. Request & Path Variable.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/6. HTTP Annotations.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/5. Spring Profile.md",
     "My Notes/Java/2. Spring Boot/Phase 1/4. Annotations.md",
     "My Notes/Java/2. Spring Boot/Phase 1/3. Maven and Gradle.md",
     "My Notes/Java/2. Spring Boot/Phase 1/2. Create Spring Boot.md",
@@ -225,14 +233,6 @@
     "My Notes/Java/1. Core/3.4 Encapsulation.md",
     "My Notes/Java/1. Core/3.3 Abstraction.md",
     "My Notes/Java/1. Core/3.2 Polymorphism.md",
-    "My Notes/Java/1. Core/3. OOPs.md",
-    "My Notes/Java/1. Core/3.1 Inheritance.md",
-    "Questions.md",
-    "Abstract & Interface.md",
-    "My Notes/Java/2. Spring Boot/Phase 4/1. Inter-Service Communication.md",
-    "My Notes/Java/1. Core/2. Static.md",
-    "My Notes/Java/1. Core/1. Basics.md",
-    "My Notes/Java/2. Spring Boot/Phase 4/8. Event-Driven Architecture.md",
     "My Notes/Database",
     "My Notes/Technologies",
     "My Notes/Behaviour",

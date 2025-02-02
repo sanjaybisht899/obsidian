@@ -138,3 +138,10 @@ without transient keyword
 19. @ExceptionHandler vs @ControllerAdvice  
 20. What is Spring Boot Actuator and how is it useful?  
 21. What are the HTTP Methods you frequently use?
+
+
+
+Confusing Questions 
+
+* Covariant Return Type
+* 

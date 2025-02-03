@@ -12,6 +12,97 @@ java 8 comparator
 how to print odd even using mutlithreading
 changes in java8 memory management
 
+reflection in java
+
+shallow copy & deep copy
+
+why constructor name is same as class
+
+why we need to to override hascode and equals when working iwth collections
+
+volatile keyword
+
+... dot operator in java
+
+life cycle of a bean
+
+grable collection algorithums'
+
+softreference and weakreference in java
+
+double brace initilization in java
+
+how to implement caching in java
+
+marker interface in java
+
+what is functional programming 
+
+how do memory leaks happen in java and how can we prevent it 
+
+what is instance of variable'
+
+java genrics
+
+aggrigation composition association
+
+autoboxing 
+
+
+
+### 58. What do you understand by the jagged array?
+
+how is deadloack occur in java'
+### 51. How is the creation of a String using new() different from that of a literal?
+
+what is a classloader
+
+what is a string pool
+1. What’s the difference between the methods sleep() and wait()?
+
+### What are the different ways to create objects in Java?
+### What are the advantages and disadvantages of object cloning?
+### What is a marker interface?
+
+aggrigation and composition
+
+implementation of priorirty queue in java
+
+### What is exception propagation?
+### 163. What will happen if you put System.exit(0) on the try or catch block? Will finally block execute?
+### What are the different types of Thread Priorities in Java? And what is the default priority of a thread assigned by JVM?
+
+### 184. Explain the difference between a minor, major, and full garbage collection.
+### 192. What are the JDBC API components?
+
+### 194. What does the JDBC ResultSet interface?
+
+### 195. What is the JDBC Rowset?
+
+working of hasset in deep, in terms of interview
+
+how can we make our own hashmap/hasset?
+
+what is a parallel stream, under what conditon parallel stream will not provide performace benifit
+
+in a data transformation pipeline, you need to process stream of stream of data -> flatmap -> advactage over simple map
+
+compatable future -> how it is thread safetly
+
+constructor chaning 
+
+in jwt we have header, signature and other component so if we will change anything what will happen.
+
+in microfservice there are mutiple and you need to authenticate once and allow same token on multiple services 
+
+how do we store the secret key
+
+what to do if we want to ensure no secret key can be pushed in the clould 
+
+how was crudrepository different from springdatajpa
+
+what is the difference between sending empty response entity instead of a full response entity
+
 different port 
 
 using different env
@@ -71,12 +162,12 @@ f. Candidate should be able to complete each problem within
 g. There would be three problems, the candidate should solve.
 
 TECHNICAL INTERVIEW – II
-1. ID Verification: With clear visibility, the candidate should start the
+2. ID Verification: With clear visibility, the candidate should start the
 video and present government-approved ID Proof to HR or
 Interviewer.
-2. The Interview Duration would be 90 Minutes after verification of ID
+3. The Interview Duration would be 90 Minutes after verification of ID
 Proof.
-1. During the 90 Minutes:
+4. During the 90 Minutes:
 a. first two minutes, the interviewer introduces himself to the
 candidate.
 b. next five minutes the candidate introduces his achievement
@@ -86,7 +177,7 @@ discussion.
 d. The last 10 minutes of the interview duration will be
 dedicated to the questions from the candidate.
 
-2. Discussion and Coding:
+5. Discussion and Coding:
 a. Discussion on the current project, roles, and Responsibilities
 b. Java Version 8+ Questions
 i. JVM
@@ -117,27 +208,27 @@ Serlizable ,
 without transient keyword
 
 
-1. Difference between Spring and Spring Boot  
-2. How does a Spring Boot application determine the active profile?  
-3. How to integrate multiple databases in a Spring Boot application?  
-4. What is the difference between a Filter and an Interceptor?  
-5. Explain the MVC workflow from frontend to backend.  
-6. Authorization vs Authentication.  
-7. How do you connect to a database in Spring Boot?  
-8. Can we maintain sessions in REST APIS?  
-9. What is Lombok?  
-10. What is the Dispatcher Servlet?  
-11. What are Spring Security and Spring Cloud?  
-12. What is the IOC Container?  
-13. What is Dependency Injection and its types? Which is recommended and why?  
-14. What does @SpringBootApplication do?  
-15. @Qualifier vs @Primary  
-16. @RestController vs @Controller  
-17. @RequestParam vs @PathVariable  
-18. @Component vs @ComponentScan  
-19. @ExceptionHandler vs @ControllerAdvice  
-20. What is Spring Boot Actuator and how is it useful?  
-21. What are the HTTP Methods you frequently use?
+6. Difference between Spring and Spring Boot  
+7. How does a Spring Boot application determine the active profile?  
+8. How to integrate multiple databases in a Spring Boot application?  
+9. What is the difference between a Filter and an Interceptor?  
+10. Explain the MVC workflow from frontend to backend.  
+11. Authorization vs Authentication.  
+12. How do you connect to a database in Spring Boot?  
+13. Can we maintain sessions in REST APIS?  
+14. What is Lombok?  
+15. What is the Dispatcher Servlet?  
+16. What are Spring Security and Spring Cloud?  
+17. What is the IOC Container?  
+18. What is Dependency Injection and its types? Which is recommended and why?  
+19. What does @SpringBootApplication do?  
+20. @Qualifier vs @Primary  
+21. @RestController vs @Controller  
+22. @RequestParam vs @PathVariable  
+23. @Component vs @ComponentScan  
+24. @ExceptionHandler vs @ControllerAdvice  
+25. What is Spring Boot Actuator and how is it useful?  
+26. What are the HTTP Methods you frequently use?
 
 
 

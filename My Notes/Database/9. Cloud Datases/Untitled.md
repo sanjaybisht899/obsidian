@@ -1,0 +1,7 @@
+- Cloud Database Concepts
+- Database as a Service (DBaaS)
+- AWS RDS, Google Cloud SQL, Azure SQL Database
+- Advantages and Limitations of Cloud Databases
+- Scaling Cloud Databases
+- Vertical and Horizontal Scaling
+- Autoscaling

@@ -1,0 +1,6 @@
+- Database Management Tools
+- MySQL Workbench, pgAdmin, MongoDB Compass
+- Query Optimization and Profiling Tools
+- Database Migration
+- Database Migration Strategies
+- Tools for Database Migration (Flyway, Liquibase)

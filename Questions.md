@@ -1,5 +1,21 @@
 
 
+Transactional in SpringBoot
+2.Idempotency of APIs
+3.Isolation Levels and Locking mechanism
+
+4.Kafka basics and architecture
+- About kafka
+api endpoint security.
+Cadinality  
+ORM
+Hashmap & hashset internal working
+Creating Custom Set
+String Pool
+API's
+- use of final key word?
+- In a multithreaded environment how can I prevent re-assigning?
+
 what are third party api's?? -- asked in a interview
 
 why stored procedures are used, why used

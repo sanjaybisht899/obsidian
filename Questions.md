@@ -1,3 +1,7 @@
+
+
+
+
 why stored procedures are used, why used
 thread local?
 completable future
@@ -6,6 +10,49 @@ aware interface
 bean lifecycle
 protype inject into singleton
 microservices architecutre
+
+amazon data lake 
+JVM Tuning
+Atomic Variables
+Happens-Before Relationship
+JWT, OAuth2, Authentication Providers
+- Entity Lifecycle, Query Performance Optimization
+- Redis, EhCache, @Cacheable
+- @EventListener, ApplicationEventPublisher
+- Quartz, @Scheduled
+- Resilience4j, Hystrix
+REST, gRPC, WebSockets, Kafka
+Bulkheading, Timeout Strategies
+Saga Pattern, 2PC (Two-Phase Commit)
+**Distributed Transactions** – Saga Pattern, 2PC (Two-Phase Commit)
+CQRS & Event Sourcing
+**Data Consistency in Microservices** – CAP Theorem, Idempotency
+- **SQL Query Optimization** – Indexing, Query Execution Plan, Partitioning
+- **ACID vs. BASE** – Eventual Consistency in NoSQL
+- **MySQL Internals** – InnoDB vs. MyISAM, MVCC
+- **PostgreSQL Deep Dive** – JSONB, CTEs, Window Functions
+- **MongoDB** – Sharding, Replication, Aggregation Framework
+- **Database Scaling Strategies** – Read/Write Splitting, Sharding, Federation
+- **Kafka Internals** – Partitions, Consumer Groups, Offset Management
+- - **Message Ordering & Exactly-Once Semantics**
+- **Kafka vs. RabbitMQ vs. ActiveMQ**
+
+1. **Event-Driven Architecture & Streaming Processing** – Kafka Streams, Flink
+
+
+**Docker & Kubernetes** – K8s Networking, Stateful Sets, Helm
+
+**CI/CD Pipelines** – Jenkins, GitHub Actions, ArgoCD
+
+- **OWASP Top 10** – SQL Injection, XSS, CSRF, Clickjacking
+- - **Custom Class Loaders & Dynamic Code Loading**
+- - **JVM Locking Internals** – Biased Locking, Lock Elision
+- **AOT Compilation in Java (GraalVM, SubstrateVM)**
+eBPF for Java Performance Tuning
+
+
+**Trade-Off Decisions** – When to Choose SQL vs. NoSQL, Monolith vs. Microservices
+
 
 sage design
 java 8 comparator
@@ -25,6 +72,14 @@ volatile keyword
 ... dot operator in java
 
 life cycle of a bean
+
+git cherrypick
+
+rebase
+
+mvn clean and mvn install
+
+if I have to scale high traffic application how to do that in springboot
 
 grable collection algorithums'
 
@@ -48,7 +103,47 @@ aggrigation composition association
 
 autoboxing 
 
+how will you customizae http response structure when a custom excetion occures , and how you handle mu
 
+how will you handle different type of exceptions
+
+how you handle for asynchronous methods 
+
+
+which junit version4or5 or mockito version
+
+what is code coverage, if I want too exclude a code how to do that 
+
+so what happen if two pacages have the same class name
+
+if your application frequenct gc pauses how would you optimize it.
+
+tuning the heap size, 
+
+callable and runnable difference
+
+logging mechnaishm what we use in java ?? -- what is inbuild in springboot 
+
+@cacheannotation
+
+sealed classes
+
+nullable keyword
+thread deadlock
+
+thread group
+
+
+
+ways to optimize the springboot application
+
+serialversionuid
+
+what is a immutable object in java , wnd why it is required 
+
+how does immutablity provide thread safty? give with an example
+
+could the constant creation of immutable object lead to garbage collection issues?
 
 ### 58. What do you understand by the jagged array?
 
@@ -58,7 +153,7 @@ how is deadloack occur in java'
 what is a classloader
 
 what is a string pool
-1. What’s the difference between the methods sleep() and wait()?
+2. What’s the difference between the methods sleep() and wait()?
 
 ### What are the different ways to create objects in Java?
 ### What are the advantages and disadvantages of object cloning?
@@ -162,12 +257,12 @@ f. Candidate should be able to complete each problem within
 g. There would be three problems, the candidate should solve.
 
 TECHNICAL INTERVIEW – II
-2. ID Verification: With clear visibility, the candidate should start the
+3. ID Verification: With clear visibility, the candidate should start the
 video and present government-approved ID Proof to HR or
 Interviewer.
-3. The Interview Duration would be 90 Minutes after verification of ID
+4. The Interview Duration would be 90 Minutes after verification of ID
 Proof.
-4. During the 90 Minutes:
+5. During the 90 Minutes:
 a. first two minutes, the interviewer introduces himself to the
 candidate.
 b. next five minutes the candidate introduces his achievement
@@ -177,7 +272,7 @@ discussion.
 d. The last 10 minutes of the interview duration will be
 dedicated to the questions from the candidate.
 
-5. Discussion and Coding:
+6. Discussion and Coding:
 a. Discussion on the current project, roles, and Responsibilities
 b. Java Version 8+ Questions
 i. JVM
@@ -208,31 +303,189 @@ Serlizable ,
 without transient keyword
 
 
-6. Difference between Spring and Spring Boot  
-7. How does a Spring Boot application determine the active profile?  
-8. How to integrate multiple databases in a Spring Boot application?  
-9. What is the difference between a Filter and an Interceptor?  
-10. Explain the MVC workflow from frontend to backend.  
-11. Authorization vs Authentication.  
-12. How do you connect to a database in Spring Boot?  
-13. Can we maintain sessions in REST APIS?  
-14. What is Lombok?  
-15. What is the Dispatcher Servlet?  
-16. What are Spring Security and Spring Cloud?  
-17. What is the IOC Container?  
-18. What is Dependency Injection and its types? Which is recommended and why?  
-19. What does @SpringBootApplication do?  
-20. @Qualifier vs @Primary  
-21. @RestController vs @Controller  
-22. @RequestParam vs @PathVariable  
-23. @Component vs @ComponentScan  
-24. @ExceptionHandler vs @ControllerAdvice  
-25. What is Spring Boot Actuator and how is it useful?  
-26. What are the HTTP Methods you frequently use?
+7. Difference between Spring and Spring Boot  
+8. How does a Spring Boot application determine the active profile?  
+9. How to integrate multiple databases in a Spring Boot application?  
+10. What is the difference between a Filter and an Interceptor?  
+11. Explain the MVC workflow from frontend to backend.  
+12. Authorization vs Authentication.  
+13. How do you connect to a database in Spring Boot?  
+14. Can we maintain sessions in REST APIS?  
+15. What is Lombok?  
+16. What is the Dispatcher Servlet?  
+17. What are Spring Security and Spring Cloud?  
+18. What is the IOC Container?  
+19. What is Dependency Injection and its types? Which is recommended and why?  
+20. What does @SpringBootApplication do?  
+21. @Qualifier vs @Primary  
+22. @RestController vs @Controller  
+23. @RequestParam vs @PathVariable  
+24. @Component vs @ComponentScan  
+25. @ExceptionHandler vs @ControllerAdvice  
+26. What is Spring Boot Actuator and how is it useful?  
+27. What are the HTTP Methods you frequently use?
 
 
 
 Confusing Questions 
 
 * Covariant Return Type
-* 
+
+
+
+Here’s a **deep-dive** list of **Core Java topics**, including advanced and rarely covered concepts:
+
+---
+
+### **1. Java Memory Management & Performance Tuning**
+
+- **Heap & Stack Memory** – What goes where? Objects, References, Method Frames
+- **Garbage Collection (GC) Algorithms** – Mark-Sweep, G1, ZGC, Shenandoah
+- **JVM Tuning & Performance Optimization** – `-Xms`, `-Xmx`, `-XX:+UseG1GC`, `-XX:+PrintGCDetails`
+- **Escape Analysis & Stack Allocation** – How JVM optimizes object creation
+- **JIT Compilation & Code Optimization** – C1 (Client), C2 (Server), Graal JIT
+- **Memory Barriers & Volatile** – Happens-Before relationship
+- **Reference Types & Their Impact on GC** – Soft, Weak, Phantom References
+- **String Pool & Interning** – How `String.intern()` saves memory
+
+---
+
+### **2. Java Class Loading Mechanism**
+
+- **Bootstrap, Extension & Application ClassLoaders**
+- **Custom Class Loaders** – Creating your own `ClassLoader`
+- **Dynamic Class Loading & Reflection** – `Class.forName()`, `Method.invoke()`
+- **JVM Class Verification Process** – Bytecode verification steps
+- **Java Instrumentation API** – Modifying bytecode at runtime
+
+---
+
+### **3. Multithreading & Concurrency (Deep Concepts)**
+
+- **Thread Lifecycle & State Transitions**
+- **Thread Coordination Mechanisms** – `wait()`, `notify()`, `notifyAll()`
+- **Java Memory Model (JMM)** – Happens-Before, Visibility, Reordering
+- **CAS (Compare-And-Swap) & Atomic Operations** – `AtomicInteger`, `Unsafe`
+- **ReentrantLock vs. Synchronized** – Fair Locking, Starvation, Biasing
+- **Thread Contention & False Sharing** – How CPU Cache affects performance
+- **ThreadLocal & InheritableThreadLocal** – Managing thread-specific data
+- **ForkJoinPool vs. ExecutorService** – Work-stealing algorithm
+
+---
+
+### **4. Java Collections (Deep Dive)**
+
+- **HashMap Internal Working** – Hashing, Collision Handling, Treeification
+- **Concurrent Collections** – `ConcurrentHashMap`, `CopyOnWriteArrayList`
+- **Why HashMap key should be immutable?**
+- **BlockingQueues & Producer-Consumer Pattern** – `LinkedBlockingQueue`, `ArrayBlockingQueue`
+- **PriorityQueue & Its Implementation** – Binary Heap structure
+- **WeakHashMap, IdentityHashMap, EnumMap** – Specialized maps in Java
+
+---
+
+### **5. Serialization & Deserialization (Advanced)**
+
+- **Serializable vs. Externalizable** – Performance implications
+- **Serial Version UID & Object Stream Protocol**
+- **Deep Cloning using Serialization**
+- **Custom Serialization with `writeObject()` and `readObject()`**
+- **Preventing Serialization Attacks** – `readResolve()` and `writeReplace()`
+- **Kryo & JSON-Based Serialization Alternatives**
+
+---
+
+### **6. Reflection API & Dynamic Proxies**
+
+- **Creating Objects at Runtime using Reflection** – `Constructor.newInstance()`
+- **Accessing Private Fields & Methods** – `setAccessible(true)`
+- **Method Handles & Invokedynamic (Java 7+)**
+- **Bytecode Manipulation Libraries** – ASM, Javassist, ByteBuddy
+- **Creating Dynamic Proxies** – `Proxy.newProxyInstance()`
+
+---
+
+### **7. Functional Programming & Java Streams**
+
+- **Lambda Internals & Synthetic Methods**
+- **Lazy Evaluation in Streams** – How Streams process elements
+- **Short-Circuiting Operations** – `limit()`, `findFirst()`, `anyMatch()`
+- **Custom Collectors & Reduction Strategies** – `Collectors.toMap()`, `Collectors.groupingBy()`
+- **Parallel Streams & ForkJoinPool** – When to use, when not to use
+
+---
+
+### **8. Exception Handling & Best Practices**
+
+- **Checked vs. Unchecked Exceptions** – When to use which
+- **Suppressed Exceptions in Try-With-Resources**
+- **Custom Exception Handling Strategies**
+- **Best Practices for Logging Exceptions** – Structured logging, SLF4J, Logback
+
+---
+
+### **9. Java Modules (JPMS - Java 9)**
+
+- **Modularization in Java** – `module-info.java`
+- **Automatic Modules & Migration Strategies**
+- **Reflection Restrictions & Encapsulation in Modules**
+
+---
+
+### **10. Advanced String Handling & Optimization**
+
+- **How `StringBuilder` Works Internally**
+- **String Deduplication in G1 GC**
+- **Substring Memory Leak in Older Java Versions**
+
+---
+
+### **11. Compiler & Optimization Techniques**
+
+- **Escape Analysis & Scalar Replacement**
+- **Inlining & Devirtualization in JIT Compiler**
+- **Loop Unrolling & Auto-Vectorization**
+
+---
+
+### **12. Java Agent Programming**
+
+- **JVM Instrumentation API** – Attaching Agents Dynamically
+- **Code Injection using Java Agents**
+- **Profiling & Monitoring Using Agents**
+
+---
+
+### **13. Metaspace & Native Memory Usage**
+
+- **Metaspace vs. PermGen (Java 8+ Changes)**
+- **Class Metadata Storage & Impact on GC**
+- **Native Memory Tracking (NMT) in Java**
+
+---
+
+### **14. Java Security & Cryptography**
+
+- **Java Security Manager (Deprecated in Java 17)**
+- **KeyStore & SecureRandom API**
+- **TLS/SSL & Cipher Suites in Java**
+- **Password Hashing & PBKDF2, BCrypt, Argon2**
+
+---
+
+### **15. Low-Level JVM Topics**
+
+- **Biased Locking & Lock Elision**
+- **Escape Analysis & Allocation Elimination**
+- **Java Unsafe API** – Direct Memory Access
+- **GraalVM & Ahead-of-Time (AOT) Compilation**
+
+---
+
+### **Rarely Covered Topics**
+
+- **Zero-Cost Abstractions in Java** – Optimizing Runtime Performance
+- **eBPF for Java Performance Tuning** – Deep Kernel-Level Observability
+- **How `synchronized` Works Internally** – Object Header & Lock Word
+- **Why `volatile` is Not Enough for Atomicity** – Happens-Before & Visibility Guarantees
+- **Profiling Tools for Java** – JFR, async-profiler, perf, bpftrace

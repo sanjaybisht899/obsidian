@@ -1,6 +1,6 @@
 
 
-
+what are third party api's?? -- asked in a interview
 
 why stored procedures are used, why used
 thread local?
@@ -10,6 +10,9 @@ aware interface
 bean lifecycle
 protype inject into singleton
 microservices architecutre
+
+2 beans dependent on each other how to solve this?
+
 
 amazon data lake 
 JVM Tuning

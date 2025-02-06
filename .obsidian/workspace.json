@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Notes/Database/3. Advanced DB Concepts/2. Concurrency Control.md",
+                "file": "My Notes/Database/5. Distributed Databases/1. Sharding and Partitioning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Concurrency Control"
+              "title": "1. Sharding and Partitioning"
             }
           }
         ]
@@ -178,6 +178,15 @@
   },
   "active": "2c8b895cd094960e",
   "lastOpenFiles": [
+    "My Notes/Database/5. Distributed Databases/Untitled.md",
+    "My Notes/Database/5. Distributed Databases/Untitled 2 1 1.md",
+    "My Notes/Database/5. Distributed Databases/1. Sharding and Partitioning.md",
+    "My Notes/Database/5. Distributed Databases/Untitled 2.md",
+    "My Notes/Database/5. Distributed Databases/Untitled 2 1.md",
+    "My Notes/Database/4. NoSQL/4. CAP Theoram.md",
+    "My Notes/Database/4. NoSQL/3. Horizontal Scalability.md",
+    "My Notes/Database/3. Advanced DB Concepts/3. Database Backup and Recovery.md",
+    "My Notes/Database/3. Advanced DB Concepts/2. Concurrency Control.md",
     "My Notes/Database/3. Advanced DB Concepts/1. Database Design.md",
     "My Notes/Database/2. Relational DB Concepts/7. Isolation Levels.md",
     "My Notes/Database/2. Relational DB Concepts/2. ACID (Transaction Management).md",
@@ -187,11 +196,8 @@
     "My Notes/Database/2. Relational DB Concepts/3. SQL Queries.md",
     "Questions.md",
     "My Notes/Database/1. Database Basics/2. Data Types.md",
-    "My Notes/Database/5. Distributed Databases/Untitled.md",
     "My Notes/Database/7. Data Security and Integrity/Untitled.md",
     "My Notes/Database/6. Performance Optimization/Untitled.md",
-    "My Notes/Database/4. NoSQL/4. CAP Theoram.md",
-    "My Notes/Database/4. NoSQL/3. Horizontal Scalability.md",
     "My Notes/Database/4. NoSQL/2. Advantages of NoSQL.md",
     "My Notes/Database/4. NoSQL/1. Topics on NoSQL Databases.md",
     "My Notes/Database/Topics.md",
@@ -200,20 +206,14 @@
     "My Notes/Database/13. Interview Specific/Untitled.md",
     "My Notes/Database/13. Interview Specific",
     "My Notes/Database/12. New Trends/Untitled.md",
-    "My Notes/Database/11. Database Tools/Untitled.md",
     "My Notes/Database/12. New Trends",
     "My Notes/Database/11. Database Tools",
-    "My Notes/Database/10. Data Warehousing and ETL/Untitled.md",
     "My Notes/Database/10. Data Warehousing and ETL",
-    "My Notes/Database/9. Cloud Datases/Untitled.md",
     "My Notes/Database/9. Cloud Datases",
     "My Notes/Database/7. Data Security and Integrity",
     "My Notes/Database/6. Performance Optimization",
     "My Notes/Database/5. Distributed Databases",
     "My Notes/Database/4. NoSQL",
-    "My Notes/Database/3. Advanced DB Concepts/3. Database Backup and Recovery.md",
-    "My Notes/Database/3. Advanced DB Concepts/2. Concurrency Control.md",
-    "My Notes/Database/1. Database Basics/1. Database Concepts.md",
     "My Notes/JavaScript/Media/Pasted image 20250128012205.png",
     "Pasted image 20250128012203.png",
     "My Notes/Java/Media/Pasted image 20250119170609.png",

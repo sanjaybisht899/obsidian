@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Notes/Java/2. Spring Boot/Phase 2/14. Retention Policies.md",
+                "file": "My Notes/Database/3. Advanced DB Concepts/2. Concurrency Control.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14. Retention Policies"
+              "title": "2. Concurrency Control"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Caching",
+                "query": "Pessimistic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Notes/Java/2. Spring Boot/Phase 2/14. Retention Policies.md",
+                "file": "My Notes/Database/3. Advanced DB Concepts/2. Concurrency Control.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 14. Retention Policies"
+              "title": "Backlinks for 2. Concurrency Control"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Notes/Java/2. Spring Boot/Phase 2/14. Retention Policies.md",
+                "file": "My Notes/Database/3. Advanced DB Concepts/2. Concurrency Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 14. Retention Policies"
+              "title": "Outgoing links from 2. Concurrency Control"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Notes/Java/2. Spring Boot/Phase 2/14. Retention Policies.md",
+                "file": "My Notes/Database/3. Advanced DB Concepts/2. Concurrency Control.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 14. Retention Policies"
+              "title": "Outline of 2. Concurrency Control"
             }
           },
           {
@@ -196,12 +196,14 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "a979e7bbade5cb48",
+  "active": "9cad615c2d501338",
   "lastOpenFiles": [
-    "My Notes/Java/2. Spring Boot/Phase 2/13. Custom Annotations.md",
-    "My Notes/Java/2. Spring Boot/Phase 2/14. Retention Policies.md",
-    "My Notes/Java/2. Spring Boot/Phase 2/12. Reflection.md",
+    "My Notes/Database/2. Relational DB Concepts/7. Isolation Levels.md",
     "Questions.md",
+    "My Notes/Database/Topics.md",
+    "My Notes/Java/2. Spring Boot/Phase 2/14. Retention Policies.md",
+    "My Notes/Java/2. Spring Boot/Phase 2/13. Custom Annotations.md",
+    "My Notes/Java/2. Spring Boot/Phase 2/12. Reflection.md",
     "My Notes/Java/2. Spring Boot/Phase 2/11. Idempotency.md",
     "My Notes/Java/2. Spring Boot/Phase 2/10. Misc.md",
     "My Notes/Java/2. Spring Boot/Phase 2/4. HATEOAS.md",
@@ -222,8 +224,6 @@
     "My Notes/Java/1. Core/9. Memory & GC.md",
     "My Notes/Java/1. Core/8. Java Versions.md",
     "My Notes/Java/1. Core/7.4 Other Features.md",
-    "My Notes/Java/1. Core/7.3 Stream API.md",
-    "My Notes/Java/2. Spring Boot/Phase 1/6. HTTP Annotations.md",
     "My Notes/Operating Systems",
     "My Notes/Database/14. Interview-Specific - Deep",
     "My Notes/Database/13. Interview Specific",

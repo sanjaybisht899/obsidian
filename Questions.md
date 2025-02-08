@@ -1,5 +1,4 @@
 
-how we create a. annotation?
 3.Isolation Levels and Locking mechanism
 
 how Eureka server works

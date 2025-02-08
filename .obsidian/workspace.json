@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Notes/Java/2. Spring Boot/Phase 1/15. Beans.md",
+                "file": "My Notes/Java/2. Spring Boot/Phase 1/15. Bean.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15. Beans"
+              "title": "15. Bean"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Notes/Java/2. Spring Boot/Phase 1/15. Beans.md",
+                "file": "My Notes/Java/2. Spring Boot/Phase 1/15. Bean.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 15. Beans"
+              "title": "Backlinks for 15. Bean"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Notes/Java/2. Spring Boot/Phase 1/15. Beans.md",
+                "file": "My Notes/Java/2. Spring Boot/Phase 1/15. Bean.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 15. Beans"
+              "title": "Outgoing links from 15. Bean"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Notes/Java/2. Spring Boot/Phase 1/15. Beans.md",
+                "file": "My Notes/Java/2. Spring Boot/Phase 1/15. Bean.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 15. Beans"
+              "title": "Outline of 15. Bean"
             }
           },
           {
@@ -184,7 +184,7 @@
   "active": "de558143ece710f1",
   "lastOpenFiles": [
     "My Notes/Java/2. Spring Boot/Phase 1/14. Propogation Types.md",
-    "My Notes/Java/2. Spring Boot/Phase 1/15. Beans.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/15. Bean.md",
     "My Notes/Java/2. Spring Boot/Phase 1/3. Maven and Gradle.md",
     "My Notes/Java/2. Spring Boot/Phase 1/2. Create Spring Boot.md",
     "My Notes/Java/2. Spring Boot/Phase 1/1. Topics.md",

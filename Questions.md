@@ -1,19 +1,4 @@
 
-
-
-
-@Bean will be called by -> 
-
-all the lamdaba,  predicates
-
-
-* runnable
-
-can same name class have to package.
-
-
-Transactional in SpringBoot
-2.Idempotency of APIs
 how we create a. annotation?
 3.Isolation Levels and Locking mechanism
 

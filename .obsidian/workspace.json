@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7e7f5ff30f01243e",
+        "id": "6bac2cdf5604e2a6",
         "type": "tabs",
         "children": [
           {
-            "id": "2c8b895cd094960e",
+            "id": "de558143ece710f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Notes/Database/5. Distributed Databases/1. Sharding and Partitioning.md",
+                "file": "Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Sharding and Partitioning"
+              "title": "Questions"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tas",
+                "query": "Caching",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,17 +94,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Notes/Java/2. Spring Boot/Phase 1/4. Annotations.md",
+                "file": "Questions.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
+                "showSearch": true,
+                "searchQuery": "cache",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 4. Annotations"
+              "title": "Backlinks for Questions"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Notes/Java/2. Spring Boot/Phase 1/4. Annotations.md",
+                "file": "Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 4. Annotations"
+              "title": "Outgoing links from Questions"
             }
           },
           {
@@ -128,7 +128,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -140,10 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Notes/Java/2. Spring Boot/Phase 1/4. Annotations.md"
+                "file": "Questions.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4. Annotations"
+              "title": "Outline of Questions"
             }
           },
           {
@@ -176,36 +181,37 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "2c8b895cd094960e",
+  "active": "ebdf87e4ac8e5154",
   "lastOpenFiles": [
-    "My Notes/Database/5. Distributed Databases/Untitled.md",
-    "My Notes/Database/5. Distributed Databases/Untitled 2 1 1.md",
-    "My Notes/Database/5. Distributed Databases/1. Sharding and Partitioning.md",
-    "My Notes/Database/5. Distributed Databases/Untitled 2.md",
-    "My Notes/Database/5. Distributed Databases/Untitled 2 1.md",
-    "My Notes/Database/4. NoSQL/4. CAP Theoram.md",
-    "My Notes/Database/4. NoSQL/3. Horizontal Scalability.md",
-    "My Notes/Database/3. Advanced DB Concepts/3. Database Backup and Recovery.md",
-    "My Notes/Database/3. Advanced DB Concepts/2. Concurrency Control.md",
-    "My Notes/Database/3. Advanced DB Concepts/1. Database Design.md",
-    "My Notes/Database/2. Relational DB Concepts/7. Isolation Levels.md",
-    "My Notes/Database/2. Relational DB Concepts/2. ACID (Transaction Management).md",
-    "My Notes/Database/2. Relational DB Concepts/1. Normalization & Denormalization.md",
-    "My Notes/Database/2. Relational DB Concepts/4. Indexes.md",
-    "My Notes/Database/1. Database Basics/3. Tables & Keys.md",
-    "My Notes/Database/2. Relational DB Concepts/3. SQL Queries.md",
+    "Abstract & Interface.md",
+    "My Notes/Java/3. Hibernate/7. One-to-One Mapping.md",
+    "My Notes/Java/3. Hibernate/8. OneToMany & ManyToOne.md",
+    "My Notes/Java/3. Hibernate/9. Many-to-Many Mapping.md",
     "Questions.md",
-    "My Notes/Database/1. Database Basics/2. Data Types.md",
-    "My Notes/Database/7. Data Security and Integrity/Untitled.md",
-    "My Notes/Database/6. Performance Optimization/Untitled.md",
-    "My Notes/Database/4. NoSQL/2. Advantages of NoSQL.md",
-    "My Notes/Database/4. NoSQL/1. Topics on NoSQL Databases.md",
-    "My Notes/Database/Topics.md",
-    "My Notes/Database/14. Interview-Specific - Deep/Untitled.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/4. Annotations.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/3. Maven and Gradle.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/2. Create Spring Boot.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/1. Topics.md",
+    "My Notes/Java/1. Core/10. Misc.md",
+    "My Notes/Java/1. Core/9. Memory & GC.md",
+    "My Notes/Java/1. Core/8. Java Versions.md",
+    "My Notes/Java/1. Core/7.4 Other Features.md",
+    "My Notes/Java/1. Core/7.3 Stream API.md",
+    "My Notes/Java/1. Core/7.2 Functional Interfaces.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/6. HTTP Annotations.md",
+    "My Notes/Java/1. Core/7.1 Lambda Expressions.md",
+    "My Notes/Java/1. Core/7. Java 8 Overview.md",
+    "My Notes/Java/1. Core/3.4 Encapsulation.md",
+    "My Notes/Java/1. Core/6. Threads.md",
+    "My Notes/Java/1. Core/5. Collection Framework.md",
+    "My Notes/Java/1. Core/4. Exception Handling.md",
+    "My Notes/Java/1. Core/1. Basics.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/14. Propogation Types.md",
+    "My Notes/Java/2. Spring Boot/Phase 2/1. Topics.md",
+    "My Notes/Java/2. Spring Boot/Phase 2/4. HATEOAS.md",
+    "My Notes/Operating Systems",
     "My Notes/Database/14. Interview-Specific - Deep",
-    "My Notes/Database/13. Interview Specific/Untitled.md",
     "My Notes/Database/13. Interview Specific",
-    "My Notes/Database/12. New Trends/Untitled.md",
     "My Notes/Database/12. New Trends",
     "My Notes/Database/11. Database Tools",
     "My Notes/Database/10. Data Warehousing and ETL",
@@ -213,7 +219,6 @@
     "My Notes/Database/7. Data Security and Integrity",
     "My Notes/Database/6. Performance Optimization",
     "My Notes/Database/5. Distributed Databases",
-    "My Notes/Database/4. NoSQL",
     "My Notes/JavaScript/Media/Pasted image 20250128012205.png",
     "Pasted image 20250128012203.png",
     "My Notes/Java/Media/Pasted image 20250119170609.png",

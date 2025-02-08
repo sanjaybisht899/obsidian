@@ -1,8 +1,95 @@
 
 
+
+
+@Bean will be called by -> 
+
+all the lamdaba,  predicates
+
+
+* runnable
+
+can same name class have to package.
+
+
 Transactional in SpringBoot
 2.Idempotency of APIs
+how we create a. annotation?
 3.Isolation Levels and Locking mechanism
+
+how Eureka server works
+
+how to microservice contact with each other
+
+what to do if microservices will change the port regularly, do we have to hardcode it everytime 
+
+
+
+Your Spring Boot application is experiencing performance issues
+“under high load. What are the steps you would take to identify
+“and address the performance? |
+
+What are conditional annotations and explain the purpose of
+“conditional annotations in Spring Boot?
+
+muticore vs mutithread  -- os 
+
+caching states
+
+parallel process vs concurrent processing
+
+Discuss the use of @SpringBootTest and @MockBean
+annotations?
+
+What advantages does YAML offer over properties files in Spring Boot? Are there limitations when using YAML for configuration?
+
+How to get the list of all the beans in your spring boot application?
+Describe a Spring Boot project where you significantly improved performance. What techniques did you use?
+
+Explain the concept of Spring Boot's embedded servlet containers.
+
+
+How does Spring Boot make DI easier compared to traditionalSpring?
+
+How does Spring Boot simplify the management of application
+“secrets and sensitive configurations, especially when deployed
+in different environments?
+
+How can you enable and use asynchronous methods in a Spring
+Boot application?
+Describe how you would secure sensitive data in a Spring Boot
+cPRiicalien that is accessed by multiple users with different
+‘roles
+You are creating an endpoint in a Spring Boot application that allows users to upload files. Explain how you would handle the file upload and where you would store the files.
+
+‘What is Spring Boot CLI and how to execute the Spring Boot
+‘project using boot CLI?
+
+How Is Spring Security Implemented In A Spring Boot
+Application?
+
+How to Disable a Specific Auto-Configuration?
+
+If you had to scale a Spring Boot application to handle high
+‘traffic, what strategies would you use?
+
+In Spring Boot, how is session management configured and handled, especially in distributed systems?
+
+How does Spring Boot support internationalization (i18n)?
+
+How do you mock microservices during testing?
+Explain the process of creating a Docker image for a Spring ~ Boot application.
+
+How can Spring Boot applications be made more resilient to failures,
+~ especially in microservices architectures? |
+
+
+For audit purposes, your application requires a "soft delete" feature,
+| where records are |Harked as deleted instead of being removed from the
+| gidbase How would you implement this feature in your Spring Boot |
+application:
+
+
 
 4.Kafka basics and architecture
 - About kafka
@@ -29,6 +116,11 @@ microservices architecutre
 
 2 beans dependent on each other how to solve this?
 
+- ****Concurrency:**** How would you handle concurrent requests in a web application to ensure data consistency?
+- ****Security:**** What measures would you take to secure a web application, especially regarding user authentication and data encryption?
+- ****Scalability:**** How would you design a scalable system to handle a surge in user traffic, and what tools or services would you use?
+- ****Error Handling:**** Describe your approach to implementing robust error handling in a backend service.
+
 
 amazon data lake 
 JVM Tuning
@@ -36,7 +128,6 @@ Atomic Variables
 Happens-Before Relationship
 JWT, OAuth2, Authentication Providers
 - Entity Lifecycle, Query Performance Optimization
-- Redis, EhCache, @Cacheable
 - @EventListener, ApplicationEventPublisher
 - Quartz, @Scheduled
 - Resilience4j, Hystrix
@@ -56,7 +147,7 @@ CQRS & Event Sourcing
 - - **Message Ordering & Exactly-Once Semantics**
 - **Kafka vs. RabbitMQ vs. ActiveMQ**
 
-1. **Event-Driven Architecture & Streaming Processing** – Kafka Streams, Flink
+2. **Event-Driven Architecture & Streaming Processing** – Kafka Streams, Flink
 
 
 **Docker & Kubernetes** – K8s Networking, Stateful Sets, Helm
@@ -91,6 +182,8 @@ volatile keyword
 ... dot operator in java
 
 life cycle of a bean
+
+sandboxing
 
 git cherrypick
 
@@ -143,7 +236,6 @@ callable and runnable difference
 
 logging mechnaishm what we use in java ?? -- what is inbuild in springboot 
 
-@cacheannotation
 
 sealed classes
 
@@ -172,7 +264,7 @@ how is deadloack occur in java'
 what is a classloader
 
 what is a string pool
-2. What’s the difference between the methods sleep() and wait()?
+3. What’s the difference between the methods sleep() and wait()?
 
 ### What are the different ways to create objects in Java?
 ### What are the advantages and disadvantages of object cloning?
@@ -276,12 +368,12 @@ f. Candidate should be able to complete each problem within
 g. There would be three problems, the candidate should solve.
 
 TECHNICAL INTERVIEW – II
-3. ID Verification: With clear visibility, the candidate should start the
+4. ID Verification: With clear visibility, the candidate should start the
 video and present government-approved ID Proof to HR or
 Interviewer.
-4. The Interview Duration would be 90 Minutes after verification of ID
+5. The Interview Duration would be 90 Minutes after verification of ID
 Proof.
-5. During the 90 Minutes:
+6. During the 90 Minutes:
 a. first two minutes, the interviewer introduces himself to the
 candidate.
 b. next five minutes the candidate introduces his achievement
@@ -291,7 +383,7 @@ discussion.
 d. The last 10 minutes of the interview duration will be
 dedicated to the questions from the candidate.
 
-6. Discussion and Coding:
+7. Discussion and Coding:
 a. Discussion on the current project, roles, and Responsibilities
 b. Java Version 8+ Questions
 i. JVM
@@ -322,27 +414,27 @@ Serlizable ,
 without transient keyword
 
 
-7. Difference between Spring and Spring Boot  
-8. How does a Spring Boot application determine the active profile?  
-9. How to integrate multiple databases in a Spring Boot application?  
-10. What is the difference between a Filter and an Interceptor?  
-11. Explain the MVC workflow from frontend to backend.  
-12. Authorization vs Authentication.  
-13. How do you connect to a database in Spring Boot?  
-14. Can we maintain sessions in REST APIS?  
-15. What is Lombok?  
-16. What is the Dispatcher Servlet?  
-17. What are Spring Security and Spring Cloud?  
-18. What is the IOC Container?  
-19. What is Dependency Injection and its types? Which is recommended and why?  
-20. What does @SpringBootApplication do?  
-21. @Qualifier vs @Primary  
-22. @RestController vs @Controller  
-23. @RequestParam vs @PathVariable  
-24. @Component vs @ComponentScan  
-25. @ExceptionHandler vs @ControllerAdvice  
-26. What is Spring Boot Actuator and how is it useful?  
-27. What are the HTTP Methods you frequently use?
+8. Difference between Spring and Spring Boot  
+9. How does a Spring Boot application determine the active profile?  
+10. How to integrate multiple databases in a Spring Boot application?  
+11. What is the difference between a Filter and an Interceptor?  
+12. Explain the MVC workflow from frontend to backend.  
+13. Authorization vs Authentication.  
+14. How do you connect to a database in Spring Boot?  
+15. Can we maintain sessions in REST APIS?  
+16. What is Lombok?  
+17. What is the Dispatcher Servlet?  
+18. What are Spring Security and Spring Cloud?  
+19. What is the IOC Container?  
+20. What is Dependency Injection and its types? Which is recommended and why?  
+21. What does @SpringBootApplication do?  
+22. @Qualifier vs @Primary  
+23. @RestController vs @Controller  
+24. @RequestParam vs @PathVariable  
+25. @Component vs @ComponentScan  
+26. @ExceptionHandler vs @ControllerAdvice  
+27. What is Spring Boot Actuator and how is it useful?  
+28. What are the HTTP Methods you frequently use?
 
 
 
@@ -386,7 +478,6 @@ Here’s a **deep-dive** list of **Core Java topics**, including advanced and ra
 - **Java Memory Model (JMM)** – Happens-Before, Visibility, Reordering
 - **CAS (Compare-And-Swap) & Atomic Operations** – `AtomicInteger`, `Unsafe`
 - **ReentrantLock vs. Synchronized** – Fair Locking, Starvation, Biasing
-- **Thread Contention & False Sharing** – How CPU Cache affects performance
 - **ThreadLocal & InheritableThreadLocal** – Managing thread-specific data
 - **ForkJoinPool vs. ExecutorService** – Work-stealing algorithm
 

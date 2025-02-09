@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Notes/Database/3. Advanced DB Concepts/2. Concurrency Control.md",
+                "file": "My Notes/Java/1. Core/3.3 Abstraction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Concurrency Control"
+              "title": "3.3 Abstraction"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Notes/Database/3. Advanced DB Concepts/2. Concurrency Control.md",
+                "file": "My Notes/Java/1. Core/3.3 Abstraction.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2. Concurrency Control"
+              "title": "Backlinks for 3.3 Abstraction"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Notes/Database/3. Advanced DB Concepts/2. Concurrency Control.md",
+                "file": "My Notes/Java/1. Core/3.3 Abstraction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2. Concurrency Control"
+              "title": "Outgoing links from 3.3 Abstraction"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Notes/Database/3. Advanced DB Concepts/2. Concurrency Control.md",
+                "file": "My Notes/Java/1. Core/3.3 Abstraction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. Concurrency Control"
+              "title": "Outline of 3.3 Abstraction"
             }
           },
           {
@@ -196,10 +196,21 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "9cad615c2d501338",
+  "active": "a979e7bbade5cb48",
   "lastOpenFiles": [
-    "My Notes/Database/2. Relational DB Concepts/7. Isolation Levels.md",
+    "My Notes/Java/1. Core/3.2 Polymorphism.md",
+    "My Notes/Java/1. Core/3.1 Inheritance.md",
+    "My Notes/Java/1. Core/3. OOPs.md",
+    "My Notes/Java/1. Core/2. Static.md",
+    "My Notes/Java/1. Core/1. Basics.md",
     "Questions.md",
+    "My Notes/Java/2. Spring Boot/Performace/Untitled.md",
+    "My Notes/Java/2. Spring Boot/Untitled/Untitled",
+    "My Notes/Java/2. Spring Boot/Performace",
+    "My Notes/Java/2. Spring Boot/Phase 3/3. Service Registry & Discovery.md",
+    "My Notes/Java/2. Spring Boot/Phase 3/4. API Gateway, Routing, Filters, Load Balancing.md",
+    "My Notes/Database/3. Advanced DB Concepts/2. Concurrency Control.md",
+    "My Notes/Database/2. Relational DB Concepts/7. Isolation Levels.md",
     "My Notes/Database/Topics.md",
     "My Notes/Java/2. Spring Boot/Phase 2/14. Retention Policies.md",
     "My Notes/Java/2. Spring Boot/Phase 2/13. Custom Annotations.md",
@@ -215,15 +226,6 @@
     "My Notes/Java/2. Spring Boot/Phase 1/2. Create Spring Boot.md",
     "My Notes/Java/2. Spring Boot/Phase 1/1. Topics.md",
     "My Notes/Java/2. Spring Boot/Phase 1/5. Spring Profile.md",
-    "My Notes/Java/2. Spring Boot/Phase 1/4. Annotations.md",
-    "Abstract & Interface.md",
-    "My Notes/Java/3. Hibernate/7. One-to-One Mapping.md",
-    "My Notes/Java/3. Hibernate/8. OneToMany & ManyToOne.md",
-    "My Notes/Java/3. Hibernate/9. Many-to-Many Mapping.md",
-    "My Notes/Java/1. Core/10. Misc.md",
-    "My Notes/Java/1. Core/9. Memory & GC.md",
-    "My Notes/Java/1. Core/8. Java Versions.md",
-    "My Notes/Java/1. Core/7.4 Other Features.md",
     "My Notes/Operating Systems",
     "My Notes/Database/14. Interview-Specific - Deep",
     "My Notes/Database/13. Interview Specific",
@@ -232,8 +234,6 @@
     "My Notes/Database/10. Data Warehousing and ETL",
     "My Notes/Database/9. Cloud Datases",
     "My Notes/Database/7. Data Security and Integrity",
-    "My Notes/Database/6. Performance Optimization",
-    "My Notes/Database/5. Distributed Databases",
     "My Notes/JavaScript/Media/Pasted image 20250128012205.png",
     "Pasted image 20250128012203.png",
     "My Notes/Java/Media/Pasted image 20250119170609.png",

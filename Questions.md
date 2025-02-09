@@ -1,11 +1,8 @@
 
-3.Isolation Levels and Locking mechanism
 
-how Eureka server works
 
-how to microservice contact with each other
 
-what to do if microservices will change the port regularly, do we have to hardcode it everytime 
+
 
 
 
@@ -13,8 +10,6 @@ Your Spring Boot application is experiencing performance issues
 “under high load. What are the steps you would take to identify
 “and address the performance? |
 
-What are conditional annotations and explain the purpose of
-“conditional annotations in Spring Boot?
 
 muticore vs mutithread  -- os 
 

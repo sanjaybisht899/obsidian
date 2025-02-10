@@ -5,6 +5,8 @@
 **How can we track the flow of API calls across multiple microservices in a Spring Boot application?**
 
 lazy, @spy 
+In a multithreaded environment how can I prevent re-assigning?
+
 
 give me the list of features of springboot only points
 

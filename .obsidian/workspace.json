@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questions.md",
+                "file": "My Notes/Java/2. Spring Boot/Phase 4/7. Spring Cloud Bus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Questions"
+              "title": "7. Spring Cloud Bus"
+            }
+          },
+          {
+            "id": "fb96e36472133d39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Notes/Java/2. Spring Boot/Phase 4/7. Spring Cloud Bus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7. Spring Cloud Bus"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,9 +109,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Notes/Java/3. Hibernate/19. Misc Questions.md",
-                "collapseAll": false,
-                "extraContext": true,
+                "file": "My Notes/Behaviour/Question.md",
+                "collapseAll": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "cache",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 19. Misc Questions"
+              "title": "Backlinks for Question"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Notes/Java/3. Hibernate/19. Misc Questions.md",
+                "file": "My Notes/Java/2. Spring Boot/Phase 4/7. Spring Cloud Bus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 19. Misc Questions"
+              "title": "Outgoing links from 7. Spring Cloud Bus"
             }
           },
           {
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Questions.md",
+                "file": "My Notes/Behaviour/Question.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Questions"
+              "title": "Outline of Question"
             }
           },
           {
@@ -162,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,34 +196,36 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "de558143ece710f1",
+  "active": "fb96e36472133d39",
   "lastOpenFiles": [
+    "My Notes/Java/2. Spring Boot/Phase 4/8. Event-Driven Architecture.md",
+    "My Notes/Java/2. Spring Boot/Phase 4/7. Spring Cloud Bus.md",
+    "My Notes/Java/2. Spring Boot/Phase 4/6. Distributed Tracing.md",
+    "My Notes/Java/2. Spring Boot/Phase 4/3. FeignClient.md",
+    "My Notes/Java/2. Spring Boot/Phase 4/2. RestTemplate.md",
+    "My Notes/Java/2. Spring Boot/Phase 4/1. Inter-Service Communication.md",
+    "My Notes/Design/Untitled.md",
+    "My Notes/Java/2. Spring Boot/Phase 2/14. Retention Policies.md",
+    "My Notes/Java/2. Spring Boot/Phase 2/12. Reflection.md",
+    "My Notes/Java/2. Spring Boot/Phase 2/5. Versioning REST APIs.md",
+    "My Notes/Behaviour/Question.md",
+    "My Notes/Database/2. Relational DB Concepts/7. Isolation Levels.md",
+    "My Notes/Database/2. Relational DB Concepts/2. ACID (Transaction Management).md",
+    "My Notes/Design/Desgining 1.md",
+    "My Notes/Kafka/2. Architecture.md",
+    "My Notes/Kafka/1. Kafka Fundamentals.md",
+    "My Notes/Kafka/4. Kafka vs. Alternatives.md",
+    "My Notes/Kafka/8. Limitations & Challenges.md",
+    "My Notes/Kafka/Topics.md",
+    "My Notes/Kafka/7. Advanced Concepts.md",
+    "My Notes/Kafka/6. Operations & Performance.md",
+    "My Notes/Kafka/5. Use Cases & Applications.md",
+    "My Notes/Kafka/3. Kafka APIs.md",
+    "My Notes/Kafka/Kafka Fundamentals",
+    "Questions.md",
+    "My Notes/Kafka",
     "My Notes/Java/3. Hibernate/19. Misc Questions.md",
     "My Notes/Java/3. Hibernate/18. Complete SpringBoot Project.md",
-    "My Notes/Java/3. Hibernate/17. Criteria API.md",
-    "My Notes/Java/3. Hibernate/16. Caching.md",
-    "My Notes/Java/3. Hibernate/15. Cascade.md",
-    "My Notes/Java/3. Hibernate/14. Native SQL.md",
-    "My Notes/Java/3. Hibernate/13. Pagination.md",
-    "My Notes/Java/3. Hibernate/12. HQL.md",
-    "My Notes/Java/3. Hibernate/11. Hibernate Object States.md",
-    "My Notes/Java/3. Hibernate/10. Lazy & Eager Loading.md",
-    "My Notes/Java/3. Hibernate/9. Many-to-Many Mapping.md",
-    "My Notes/Java/3. Hibernate/8. OneToMany & ManyToOne.md",
-    "My Notes/Java/3. Hibernate/6. Embedded Annotations.md",
-    "My Notes/Java/3. Hibernate/5. Get Method vs load Method.md",
-    "My Notes/Java/3. Hibernate/4. Types of Values in Hibernate.md",
-    "My Notes/Java/3. Hibernate/3. Hibernate Annotations.md",
-    "My Notes/Java/3. Hibernate/2. Program Using Hibernate.md",
-    "My Notes/Java/2. Spring Boot/Phase 4/1. Inter-Service Communication.md",
-    "My Notes/Java/2. Spring Boot/Phase 3/5. Centralized Configuration.md",
-    "My Notes/Java/2. Spring Boot/Phase 3/4. API Gateway, Routing, Filters, Load Balancing.md",
-    "My Notes/Java/2. Spring Boot/Phase 3/3. Service Registry & Discovery.md",
-    "My Notes/Java/2. Spring Boot/Phase 3/2. Spring Cloud.md",
-    "My Notes/Java/2. Spring Boot/Phase 2/14. Retention Policies.md",
-    "My Notes/Java/2. Spring Boot/Phase 2/13. Custom Annotations.md",
-    "My Notes/Java/2. Spring Boot/Phase 2/12. Reflection.md",
-    "My Notes/Java/2. Spring Boot/Phase 2/11. Idempotency.md",
     "My Notes/Java/2. Spring Boot/Untitled/Untitled",
     "My Notes/Java/2. Spring Boot/Performace",
     "My Notes/Operating Systems",
@@ -217,8 +234,6 @@
     "My Notes/Database/12. New Trends",
     "My Notes/Database/11. Database Tools",
     "My Notes/Database/10. Data Warehousing and ETL",
-    "My Notes/Database/9. Cloud Datases",
-    "My Notes/Database/7. Data Security and Integrity",
     "My Notes/JavaScript/Media/Pasted image 20250128012205.png",
     "Pasted image 20250128012203.png",
     "My Notes/Java/Media/Pasted image 20250119170609.png",

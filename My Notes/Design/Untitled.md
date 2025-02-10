@@ -52,3 +52,7 @@ This guide help you with:
 - DSA, HLD, and LLD for interviews  
 - good resources that I used included to save you time  
 - lots of problems and case studies for DSA and system design
+
+https://www.youtube.com/watch?v=XI7zep97c-Y
+
+

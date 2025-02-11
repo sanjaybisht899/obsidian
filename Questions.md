@@ -8,6 +8,10 @@ lazy, @spy
 In a multithreaded environment how can I prevent re-assigning?
 
 
+is lazy or egar fitler
+
+
+
 give me the list of features of springboot only points
 
 Your Spring Boot application is experiencing performance issues

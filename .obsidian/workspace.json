@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Notes/Java/2. Spring Boot/Phase 4/7. Spring Cloud Bus.md",
+                "file": "My Notes/Java/1. Core/6. Threads.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Spring Cloud Bus"
-            }
-          },
-          {
-            "id": "fb96e36472133d39",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "My Notes/Java/2. Spring Boot/Phase 2/14. Retention Policies.md",
-                "bFile": "My Notes/Java/2. Spring Boot/Phase 2/14. Retention Policies.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: 14. Retention Policies"
+              "title": "6. Threads"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Pessimistic",
+                "query": "String Builder",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Notes/Java/2. Spring Boot/Phase 1/14. Propogation Types.md",
+                "file": "My Notes/Java/1. Core/6. Threads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 14. Propogation Types"
+              "title": "Outgoing links from 6. Threads"
             }
           },
           {
@@ -157,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "My Notes/Java/1. Core/6. Threads.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 6. Threads"
             }
           },
           {
@@ -176,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -195,34 +181,34 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "fb96e36472133d39",
+  "active": "de558143ece710f1",
   "lastOpenFiles": [
     "Questions.md",
-    "My Notes/Java/2. Spring Boot/Phase 1/14. Propogation Types.md",
-    "My Notes/Java/2. Spring Boot/Phase 1/13. @Transactional.md",
-    "My Notes/Java/2. Spring Boot/Phase 2/2. Global Exception.md",
-    "My Notes/Java/2. Spring Boot/Phase 2/11. Idempotency.md",
-    "My Notes/Java/2. Spring Boot/Phase 2/12. Reflection.md",
-    "My Notes/Java/2. Spring Boot/Phase 2/14. Retention Policies.md",
+    "My Notes/Java/4. Testing/Untitled.md",
+    "My Notes/Java/3. Hibernate/12. HQL.md",
+    "My Notes/Java/2. Spring Boot/Phase 4/9. Spring Logging.md",
+    "My Notes/Java/1. Core/6. Threads.md",
+    "My Notes/Java/1. Core/11. Strings.md",
+    "Abstract & Interface.md",
+    "My Notes/Java/1. Core/7.4 Other Features.md",
+    "My Notes/Java/1. Core/7. Java 8 Overview.md",
+    "My Notes/React/1. Topic.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/15. Bean.md",
+    "My Notes/Java/1. Core/10. Misc.md",
+    "My Notes/Java/1. Core/9. Memory & GC.md",
+    "My Notes/Java/1. Core/3.4 Encapsulation.md",
+    "My Notes/Database/1. Database Basics/3. Tables & Keys.md",
+    "My Notes/Java/1. Core/8. Java Versions.md",
+    "My Notes/Java/1. Core/3.3 Abstraction.md",
     "My Notes/Java/2. Spring Boot/Phase 2/13. Custom Annotations.md",
-    "My Notes/Java/2. Spring Boot/Phase 2/10. Misc.md",
-    "My Notes/Database/2. Relational DB Concepts/7. Isolation Levels.md",
+    "My Notes/Java/2. Spring Boot/Phase 2/14. Retention Policies.md",
     "My Notes/Java/2. Spring Boot/Phase 2/8. A.O.P.md",
     "My Notes/Java/2. Spring Boot/Phase 2/7. Actuators.md",
-    "My Notes/Java/2. Spring Boot/Phase 2/9. Caching.md",
-    "My Notes/Java/1. Core/6. Threads.md",
-    "My Notes/Java/1. Core/7. Java 8 Overview.md",
-    "My Notes/Java/1. Core/1. Basics.md",
-    "My Notes/Java/1. Core/9. Memory & GC.md",
-    "My Notes/Java/2. Spring Boot/Phase 3/1. Topics.md",
-    "My Notes/Java/2. Spring Boot/Phase 3/2. Spring Cloud.md",
-    "My Notes/Java/2. Spring Boot/Phase 3/3. Service Registry & Discovery.md",
-    "My Notes/Java/2. Spring Boot/Phase 3/4. API Gateway, Routing, Filters, Load Balancing.md",
-    "My Notes/Java/2. Spring Boot/Phase 3/5. Centralized Configuration.md",
-    "My Notes/Java/2. Spring Boot/Phase 4/4. Resilience4j.md",
-    "My Notes/Java/2. Spring Boot/Phase 4/5. Circuit Breakers & Retry.md",
-    "My Notes/Java/3. Hibernate/11. Hibernate Object States.md",
-    "My Notes/Java/3. Hibernate/12. HQL.md",
+    "My Notes/Java/2. Spring Boot/Phase 2/2. Global Exception.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/11. Batch & Scheduling.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/7. Request & Path Variable.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/12. Spring Scopes.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/13. @Transactional.md",
     "My Notes/Kafka/Kafka Fundamentals",
     "My Notes/Kafka",
     "My Notes/Java/2. Spring Boot/Untitled/Untitled",

@@ -1,4 +1,9 @@
 
+
+
+
+
+
 // Deadlock suituatuin in java -- do in java
 
 microservice design patterns -- need 
@@ -60,6 +65,13 @@ For audit purposes, your application requires a "soft delete" feature,
 | gidbase How would you implement this feature in your Spring Boot |
 application:
 
+ Once young space is full,?
+- Experience in DDD, BDD, TDD
+- Experience in backend testing using Junit/Mockito, MySQL, Kafka, and Avro.
+- Familiarity with PCF apps, Docker, Kubernetes / Open shift
+- - Strong experience in Micro services (Decompose, Strangler, Saga, Event sourcing, CQRS, Tx Messaging).
+- autoboxing - boxing in generics
+- 
 
 
 4.Kafka basics and architecture
@@ -215,7 +227,9 @@ thread deadlock
 
 thread group
 
-
+Spring AMQP
+Spring Integration
+- Spring Data;
 
 ways to optimize the springboot application
 
@@ -287,6 +301,17 @@ using different env
 
 terminal operator
 how to monitor different microservices? if one goes down
+
+what are marker interface?
+what is function interface?
+
+immutable classes
+
+spring bean lifecycle
+
+
+1- Parent obj=new Child(); can obj be now called with an method of child class?
+2 - a parent method throws IOException, but while overriding it in child we say it throws Exception, will it work?
 
 transaction management in java
 
@@ -383,6 +408,7 @@ j. Mentoring, Learning and Lead related questions.
 Serlizable ,
 
 without transient keyword
+
 
 
 8. Difference between Spring and Spring Boot  

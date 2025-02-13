@@ -1,4 +1,9 @@
 
+// Deadlock suituatuin in java -- do in java
+
+microservice design patterns -- need 
+
+Distributed Transactions 
 
 caching states
 

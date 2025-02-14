@@ -1,24 +1,6 @@
 
 ---
 
-### **2. Communication Patterns (How Microservices Talk to Each Other)**
-
-**Goal**: Ensure microservices can communicate efficiently and handle failures.
-
-📌 **API Gateway** – A single entry point that routes requests to different microservices.
-
-- _Example_: A **Netflix API Gateway** takes requests from mobile/web apps and routes them to the correct services (e.g., movie catalog, user profile, recommendations).
-
-📌 **Backend for Frontend (BFF)** – Different APIs for different front-end clients.
-
-- _Example_: A **mobile app API** may return lighter responses, while a **web app API** provides more detailed data.
-
-📌 **Circuit Breaker** – Prevents failures from cascading.
-
-- _Example_: If the **Payment Service** is down, the circuit breaker will **stop calling it** and return a friendly error message instead of crashing the system.
-
----
-
 ### **3. Data Management Patterns (Handling Databases in Microservices)**
 
 **Goal**: Ensure each microservice manages its data properly without conflicts.

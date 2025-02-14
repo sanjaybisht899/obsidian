@@ -2,14 +2,10 @@
 
 
 
+first line in a shell script os fpr wjat?
 
 
-// Deadlock suituatuin in java -- do in java
-
-microservice design patterns -- need 
-
-Distributed Transactions 
-
+sandboxing
 caching states
 
 parallel process vs concurrent processing
@@ -596,3 +592,12 @@ Here’s a **deep-dive** list of **Core Java topics**, including advanced and ra
 - **How `synchronized` Works Internally** – Object Header & Lock Word
 - **Why `volatile` is Not Enough for Atomicity** – Happens-Before & Visibility Guarantees
 - **Profiling Tools for Java** – JFR, async-profiler, perf, bpftrace
+
+
+
+---
+
+microservice design patterns -- need 
+
+
+Distributed Transactions 

@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6bac2cdf5604e2a6",
+        "id": "3f191910641a95e8",
         "type": "tabs",
         "children": [
           {
-            "id": "de558143ece710f1",
+            "id": "bf1f130df7296819",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Notes/Java/1. Core/6. Threads.md",
+                "file": "My Notes/Java/1. Core/1. Basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Threads"
-            }
-          },
-          {
-            "id": "6d818d85e8c4be29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My Notes/Java/2. Spring Boot/Phase 1/6. HTTP Annotations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6. HTTP Annotations"
+              "title": "1. Basics"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "young ",
+                "query": "memory leaks",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Notes/Behaviour/Question.md",
+                "file": "My Notes/Java/1. Core/1. Basics.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Question"
+              "title": "Backlinks for 1. Basics"
             }
           },
           {
@@ -128,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Notes/Java/2. Spring Boot/Phase 3/3. Service Registry & Discovery.md",
+                "file": "My Notes/Java/1. Core/1. Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 3. Service Registry & Discovery"
+              "title": "Outgoing links from 1. Basics"
             }
           },
           {
@@ -157,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Notes/Java/2. Spring Boot/Phase 3/3. Service Registry & Discovery.md",
+                "file": "My Notes/Java/1. Core/1. Basics.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. Service Registry & Discovery"
+              "title": "Outline of 1. Basics"
             }
           },
           {
@@ -177,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -196,44 +181,44 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "6d818d85e8c4be29",
+  "active": "9cad615c2d501338",
   "lastOpenFiles": [
-    "My Notes/Java/2. Spring Boot/Phase 1/7. Request & Path Variable.md",
-    "My Notes/Java/2. Spring Boot/Phase 1/6. HTTP Annotations.md",
-    "My Notes/Java/2. Spring Boot/Phase 1/5. Spring Profile.md",
-    "My Notes/Java/2. Spring Boot/Phase 1/4. Annotations.md",
-    "My Notes/Java/2. Spring Boot/Phase 1/3. Maven and Gradle.md",
-    "My Notes/Java/2. Spring Boot/Phase 1/2. Create Spring Boot.md",
-    "My Notes/Java/2. Spring Boot/Phase 1/1. Basics.md",
-    "My Notes/Java/1. Core/11. Strings.md",
-    "My Notes/Java/1. Core/10. Misc.md",
-    "My Notes/Java/1. Core/8. Java Versions.md",
-    "My Notes/Java/1. Core/7.4 Other Features.md",
-    "My Notes/Java/1. Core/7.3 Stream API.md",
-    "My Notes/Java/1. Core/7.2 Functional Interfaces.md",
+    "My Notes/JavaScript/Core/Part 1/10. Closers.md",
+    "Questions.md",
+    "My Notes/Java/1. Core/1. Basics.md",
+    "My Notes/Java/2. Spring Boot/Phase 2/14. Retention Policies.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/14. Propogation Types.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/13. @Transactional.md",
+    "My Notes/Database/2. Relational DB Concepts/7. Isolation Levels.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/15. Bean.md",
+    "My Notes/Java/Puzzles.md",
+    "My Notes/Java/5. Microservices/3.1 Saga.md",
+    "My Notes/Java/5. Microservices/3.2 CQRS.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/9. Spring Data JPA.md",
     "My Notes/Java/1. Core/9. Memory & GC.md",
-    "My Notes/Java/1. Core/7.1 Lambda Expressions.md",
-    "My Notes/Database/3. Advanced DB Concepts/2. Concurrency Control.md",
-    "My Notes/Java/1. Core/7. Java 8 Overview.md",
+    "My Notes/Design/LLD/SOLID.md",
+    "My Notes/Design/HLD/Caching.md",
+    "My Notes/Design/HLD/Designing.md",
+    "My Notes/Design/Untitled.md",
+    "My Notes/Design/Desgining 1.md",
+    "My Notes/Java/5. Microservices/Topics.md",
+    "My Notes/Java/5. Microservices/3. Data Management Patterns.md",
+    "My Notes/Database/5. Distributed Databases/3. Distributed Transactions.md",
+    "My Notes/Java/5. Microservices/0. Basics.md",
+    "My Notes/Java/5. Microservices/2. Communication Patterns.md",
+    "My Notes/Java/5. Microservices/1. Decomposition Patterns.md",
     "My Notes/Java/1. Core/6. Threads.md",
-    "My Notes/Java/1. Core/5. Collection Framework.md",
-    "My Notes/Java/1. Core/4. Exception Handling.md",
-    "My Notes/Java/1. Core/3.4 Encapsulation.md",
-    "My Notes/Java/1. Core/3.3 Abstraction.md",
-    "My Notes/Java/1. Core/3.2 Polymorphism.md",
-    "My Notes/Java/1. Core/3.1 Inheritance.md",
-    "My Notes/Java/1. Core/3. OOPs.md",
-    "My Notes/Java/1. Core/2. Static.md",
+    "My Notes/Java/4. Testing/4. Annotations.md",
+    "My Notes/Design/HLD/Untitled",
+    "My Notes/Bash",
+    "My Notes/Design/HLD",
+    "My Notes/Design/LLD",
     "My Notes/Java/5. Microservices",
     "My Notes/Kafka/Kafka Fundamentals",
     "My Notes/Kafka",
     "My Notes/Java/2. Spring Boot/Untitled/Untitled",
     "My Notes/Java/2. Spring Boot/Performace",
     "My Notes/Operating Systems",
-    "My Notes/Database/14. Interview-Specific - Deep",
-    "My Notes/Database/13. Interview Specific",
-    "My Notes/Database/12. New Trends",
-    "My Notes/Database/11. Database Tools",
     "My Notes/JavaScript/Media/Pasted image 20250128012205.png",
     "Pasted image 20250128012203.png",
     "My Notes/Java/Media/Pasted image 20250119170609.png",

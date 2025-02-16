@@ -1,4 +1,50 @@
 
+ Spying
+ Stubbing
+ REST Maturity Model
+ OPEN API Standards
+
+parallelstream
+
+class MyThread extends Thread { @Override public void run() { System.out.println("Child thread is running..."); } } can we use any other run() return type?
+
+what is metaspace area?
+
+
+DESIGN THINKING
+Learn or refresh your knowledge of Object-oriented design
+principles.
+Try to apply Object-oriented design principles. 
+The
+solution should also follow principles like loose coupling, and
+high cohesion.
+Learn Component Cohesion Principles:
+
+1. REP – The Reuse/Release Equivalence
+Principle
+2. CCP – The Common Closure Principle
+3. CRP – The Common Reuse Principle
+
+Learn Component Coupling Principles:
+
+4. The Acyclic Dependencies Principle
+
+5. The Stable Dependencies Principle
+6. The Stable Abstraction Principle
+
+Learn Below Principles
+
+7. DRY (Do not repeat yourself)
+8. KISS (Keep it simple, stupid)
+9. YAGNI (You aren’t gonna need it)
+10. Law of Demeter – Friend of a Friend
+11. Composition over Inheritance
+12. Fail-Fast
+Separation of Concerns
+
+
+
+
 marker interface
 	
 - Types of Garbage collector
@@ -40,8 +86,8 @@ Scaling in Microservice, which scenario which scaling is required
 
 What advantages does YAML offer over properties files in Spring Boot? Are there limitations when using YAML for configuration?
 
-1. An easy design question. Design a service that will notify user on login/signup and credits them a point. Did this on [draw.io](http://draw.io/)
-2. How I go on designing stuff keeping SOLID in mind
+13. An easy design question. Design a service that will notify user on login/signup and credits them a point. Did this on [draw.io](http://draw.io/)
+14. How I go on designing stuff keeping SOLID in mind
 
 HLD for a food delivery app
 
@@ -185,7 +231,7 @@ CQRS & Event Sourcing
 - - **Message Ordering & Exactly-Once Semantics**
 - **Kafka vs. RabbitMQ vs. ActiveMQ**
 
-3. **Event-Driven Architecture & Streaming Processing** – Kafka Streams, Flink
+15. **Event-Driven Architecture & Streaming Processing** – Kafka Streams, Flink
 
 
 **Docker & Kubernetes** – K8s Networking, Stateful Sets, Helm
@@ -304,7 +350,7 @@ how is deadloack occur in java'
 what is a classloader
 
 what is a string pool
-4. What’s the difference between the methods sleep() and wait()?
+16. What’s the difference between the methods sleep() and wait()?
 
 ### What are the different ways to create objects in Java?
 ### What are the advantages and disadvantages of object cloning?
@@ -419,12 +465,12 @@ f. Candidate should be able to complete each problem within
 g. There would be three problems, the candidate should solve.
 
 TECHNICAL INTERVIEW – II
-5. ID Verification: With clear visibility, the candidate should start the
+17. ID Verification: With clear visibility, the candidate should start the
 video and present government-approved ID Proof to HR or
 Interviewer.
-6. The Interview Duration would be 90 Minutes after verification of ID
+18. The Interview Duration would be 90 Minutes after verification of ID
 Proof.
-7. During the 90 Minutes:
+19. During the 90 Minutes:
 a. first two minutes, the interviewer introduces himself to the
 candidate.
 b. next five minutes the candidate introduces his achievement
@@ -434,7 +480,7 @@ discussion.
 d. The last 10 minutes of the interview duration will be
 dedicated to the questions from the candidate.
 
-8. Discussion and Coding:
+20. Discussion and Coding:
 a. Discussion on the current project, roles, and Responsibilities
 b. Java Version 8+ Questions
 i. JVM
@@ -466,27 +512,27 @@ without transient keyword
 
 
 
-9. Difference between Spring and Spring Boot  
-10. How does a Spring Boot application determine the active profile?  
-11. How to integrate multiple databases in a Spring Boot application?  
-12. What is the difference between a Filter and an Interceptor?  
-13. Explain the MVC workflow from frontend to backend.  
-14. Authorization vs Authentication.  
-15. How do you connect to a database in Spring Boot?  
-16. Can we maintain sessions in REST APIS?  
-17. What is Lombok?  
-18. What is the Dispatcher Servlet?  
-19. What are Spring Security and Spring Cloud?  
-20. What is the IOC Container?  
-21. What is Dependency Injection and its types? Which is recommended and why?  
-22. What does @SpringBootApplication do?  
-23. @Qualifier vs @Primary  
-24. @RestController vs @Controller  
-25. @RequestParam vs @PathVariable  
-26. @Component vs @ComponentScan  
-27. @ExceptionHandler vs @ControllerAdvice  
-28. What is Spring Boot Actuator and how is it useful?  
-29. What are the HTTP Methods you frequently use?
+21. Difference between Spring and Spring Boot  
+22. How does a Spring Boot application determine the active profile?  
+23. How to integrate multiple databases in a Spring Boot application?  
+24. What is the difference between a Filter and an Interceptor?  
+25. Explain the MVC workflow from frontend to backend.  
+26. Authorization vs Authentication.  
+27. How do you connect to a database in Spring Boot?  
+28. Can we maintain sessions in REST APIS?  
+29. What is Lombok?  
+30. What is the Dispatcher Servlet?  
+31. What are Spring Security and Spring Cloud?  
+32. What is the IOC Container?  
+33. What is Dependency Injection and its types? Which is recommended and why?  
+34. What does @SpringBootApplication do?  
+35. @Qualifier vs @Primary  
+36. @RestController vs @Controller  
+37. @RequestParam vs @PathVariable  
+38. @Component vs @ComponentScan  
+39. @ExceptionHandler vs @ControllerAdvice  
+40. What is Spring Boot Actuator and how is it useful?  
+41. What are the HTTP Methods you frequently use?
 
 
 

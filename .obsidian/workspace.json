@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Notes/Java/1. Core/1. Basics.md",
-                "mode": "source",
+                "file": "Questions.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Basics"
+              "title": "Questions"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "memory leaks",
+                "query": "Marker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Notes/Java/1. Core/1. Basics.md",
+                "file": "Questions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1. Basics"
+              "title": "Backlinks for Questions"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Notes/Java/1. Core/1. Basics.md",
+                "file": "Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1. Basics"
+              "title": "Outgoing links from Questions"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Notes/Java/1. Core/1. Basics.md",
+                "file": "Questions.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. Basics"
+              "title": "Outline of Questions"
             }
           },
           {
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -181,34 +181,34 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "9cad615c2d501338",
+  "active": "bf1f130df7296819",
   "lastOpenFiles": [
-    "My Notes/JavaScript/Core/Part 1/10. Closers.md",
+    "My Notes/Java/1. Core/6. Threads.md",
     "Questions.md",
+    "My Notes/Database/5. Distributed Databases/4. Distributed Locking.md",
+    "My Notes/Database/5. Distributed Databases/3. Distributed Transactions.md",
+    "My Notes/Database/5. Distributed Databases/2. Replication.md",
+    "My Notes/Java/5. Microservices/3.1 Saga.md",
+    "My Notes/Java/5. Microservices/3.2 CQRS.md",
+    "My Notes/Database/3. Advanced DB Concepts/1. Database Design.md",
+    "My Notes/Java/4. Testing/3. Integration Testing.md",
+    "My Notes/Java/4. Testing/4. Annotations.md",
+    "My Notes/Java/1. Core/7.3 Stream API.md",
+    "My Notes/Java/1. Core/7.2 Functional Interfaces.md",
+    "My Notes/Java/1. Core/7.4 Other Features.md",
+    "My Notes/Java/1. Core/9. Memory & GC.md",
+    "My Notes/Database/2. Relational DB Concepts/7. Isolation Levels.md",
+    "My Notes/Java/1. Core/10. Misc.md",
+    "My Notes/Java/1. Core/8. Java Versions.md",
     "My Notes/Java/1. Core/1. Basics.md",
+    "My Notes/JavaScript/Core/Part 1/10. Closers.md",
     "My Notes/Java/2. Spring Boot/Phase 2/14. Retention Policies.md",
     "My Notes/Java/2. Spring Boot/Phase 1/14. Propogation Types.md",
     "My Notes/Java/2. Spring Boot/Phase 1/13. @Transactional.md",
-    "My Notes/Database/2. Relational DB Concepts/7. Isolation Levels.md",
     "My Notes/Java/2. Spring Boot/Phase 1/15. Bean.md",
     "My Notes/Java/Puzzles.md",
-    "My Notes/Java/5. Microservices/3.1 Saga.md",
-    "My Notes/Java/5. Microservices/3.2 CQRS.md",
     "My Notes/Java/2. Spring Boot/Phase 1/9. Spring Data JPA.md",
-    "My Notes/Java/1. Core/9. Memory & GC.md",
     "My Notes/Design/LLD/SOLID.md",
-    "My Notes/Design/HLD/Caching.md",
-    "My Notes/Design/HLD/Designing.md",
-    "My Notes/Design/Untitled.md",
-    "My Notes/Design/Desgining 1.md",
-    "My Notes/Java/5. Microservices/Topics.md",
-    "My Notes/Java/5. Microservices/3. Data Management Patterns.md",
-    "My Notes/Database/5. Distributed Databases/3. Distributed Transactions.md",
-    "My Notes/Java/5. Microservices/0. Basics.md",
-    "My Notes/Java/5. Microservices/2. Communication Patterns.md",
-    "My Notes/Java/5. Microservices/1. Decomposition Patterns.md",
-    "My Notes/Java/1. Core/6. Threads.md",
-    "My Notes/Java/4. Testing/4. Annotations.md",
     "My Notes/Design/HLD/Untitled",
     "My Notes/Bash",
     "My Notes/Design/HLD",

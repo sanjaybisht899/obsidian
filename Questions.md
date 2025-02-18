@@ -1,8 +1,6 @@
 
  Spying
  Stubbing
- REST Maturity Model
- OPEN API Standards
 
 parallelstream
 

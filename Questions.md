@@ -1,8 +1,51 @@
+why is string mutable?
+
+requires_new & nested difference
 
  Spying
  Stubbing
 
 parallelstream
+
+pass by value vs pass by reference
+
+
+---
+
+
+public class A {
+    public static void main(String[] args)
+    {
+        System.out.println('j' + 'a' + 'v' + 'a');
+    }
+}
+ 
+Apublic class A {
+    public static void main(String[] args)
+    {
+        if (true)
+            break;
+    }
+}
+
+---
+
+There is a table Person.
+
+Gender is column male or female
+
+single query to make male as female and female as male
+
+
+UPDATE Person SET GENDER = CASE
+WHEN GENDER = 'male' THEN 'female'
+WHEN GENDER = 'female' THEN 'male'
+
+
+
+---
+
+Caching Hashcode for Performance in strings
 
 class MyThread extends Thread { @Override public void run() { System.out.println("Child thread is running..."); } } can we use any other run() return type?
 

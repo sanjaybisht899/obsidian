@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Notes/Java/1. Core/6. Threads.md",
+                "file": "My Notes/Java/2. Spring Boot/Phase 1/14. Propogation Types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Threads"
+              "title": "14. Propogation Types"
+            }
+          },
+          {
+            "id": "f3fffe1579f1f1ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Questions"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -68,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Marker",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -196,36 +210,36 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "b30ec443fdc8b40a",
+  "active": "f3fffe1579f1f1ec",
   "lastOpenFiles": [
-    "My Notes/Java/1. Core/5. Collection Framework.md",
-    "My Notes/Java/1. Core/4. Exception Handling.md",
-    "My Notes/Java/1. Core/3.4 Encapsulation.md",
-    "My Notes/Java/1. Core/3.3 Abstraction.md",
-    "My Notes/Java/1. Core/3.2 Polymorphism.md",
-    "My Notes/Java/1. Core/3.1 Inheritance.md",
-    "My Notes/Java/1. Core/3. OOPs.md",
-    "My Notes/Java/1. Core/2. Static.md",
-    "My Notes/Java/1. Core/1. Basics.md",
-    "My Notes/Java/4. Testing/3. Integration Testing.md",
-    "My Notes/Java/4. Testing/4. Annotations.md",
-    "Questions.md",
-    "My Notes/Interview Prep/Techno Managerial.md",
-    "My Notes/Interview Prep",
     "My Notes/Design/HLD/Watch.md",
-    "Untitled",
-    "My Notes/Design/HLD/ZDump.md",
-    "My Notes/Design/HLD/Topics.md",
-    "My Notes/Design/HLD/Designing.md",
-    "My Notes/Java/1. Core/6. Threads.md",
-    "My Notes/Database/5. Distributed Databases/4. Distributed Locking.md",
-    "My Notes/Database/5. Distributed Databases/3. Distributed Transactions.md",
-    "My Notes/Database/5. Distributed Databases/2. Replication.md",
-    "My Notes/Java/5. Microservices/3.1 Saga.md",
-    "My Notes/Java/5. Microservices/3.2 CQRS.md",
-    "My Notes/Database/3. Advanced DB Concepts/1. Database Design.md",
+    "Questions.md",
+    "My Notes/Database/13. Interview Specific/Untitled.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/14. Propogation Types.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/13. @Transactional.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/11. Batch & Scheduling.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/8. Database Connection Setup.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/10. Spring Boot DevTools.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/9. Spring Data JPA.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/7. Request & Path Variable.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/6. HTTP Annotations.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/5. Spring Profile.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/4. Annotations.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/3. Maven and Gradle.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/2. Create Spring Boot.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/1. Basics.md",
+    "My Notes/Java/1. Core/11. Strings.md",
+    "My Notes/Java/1. Core/10. Misc.md",
+    "My Notes/Java/1. Core/9. Memory & GC.md",
+    "My Notes/Java/1. Core/8. Java Versions.md",
+    "My Notes/Java/1. Core/7.4 Other Features.md",
     "My Notes/Java/1. Core/7.3 Stream API.md",
     "My Notes/Java/1. Core/7.2 Functional Interfaces.md",
+    "My Notes/Java/1. Core/7.1 Lambda Expressions.md",
+    "My Notes/Java/1. Core/7. Java 8 Overview.md",
+    "My Notes/Java/1. Core/6. Threads.md",
+    "My Notes/Interview Prep",
+    "Untitled",
     "My Notes/Design/HLD/Untitled",
     "My Notes/Bash",
     "My Notes/Design/HLD",

@@ -2,8 +2,8 @@
 ---
 **Round 3 -- Interview Over Zoom -- Manegerial Round**
 
-- Question on streams API
-- Coding question on stream to find ranks of students based on total marks
+
+
 - HLD of File upload for large datasets.
 - ThreadPool executor -- how it works and implementation
 - Behavioral Questions

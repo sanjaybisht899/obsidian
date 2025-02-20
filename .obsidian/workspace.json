@@ -30,59 +30,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Notes/Interview Prep/Techno Managerial.md",
+                "file": "My Notes/Interview Prep/Oracle Prep.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Techno Managerial"
-            }
-          },
-          {
-            "id": "b1e2c6647aaa3fc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My Notes/Java/1. Core/3. OOPs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. OOPs"
-            }
-          },
-          {
-            "id": "bd79856a6b88d83d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My Notes/Java/1. Core/7.4 Other Features.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7.4 Other Features"
-            }
-          },
-          {
-            "id": "098a917b93243030",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My Notes/Java/1. Core/6. Threads.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6. Threads"
+              "title": "Oracle Prep"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Notes/Design/HLD/ZDump.md",
+                "file": "My Notes/Interview Prep/Oracle Prep.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +123,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ZDump"
+              "title": "Backlinks for Oracle Prep"
             }
           },
           {
@@ -174,12 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Notes/Design/HLD/ZDump.md",
+                "file": "My Notes/Interview Prep/Oracle Prep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ZDump"
+              "title": "Outgoing links from Oracle Prep"
             }
           },
           {
@@ -203,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Notes/Java/1. Core/7.4 Other Features.md",
+                "file": "My Notes/Interview Prep/Oracle Prep.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 7.4 Other Features"
+              "title": "Outline of Oracle Prep"
             }
           },
           {
@@ -223,7 +181,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -242,34 +200,34 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "bd79856a6b88d83d",
+  "active": "9165f46ca5a6d784",
   "lastOpenFiles": [
-    "My Notes/Java/1. Core/6. Threads.md",
-    "My Notes/Interview Prep/Techno Managerial.md",
     "My Notes/Java/1. Core/3. OOPs.md",
     "My Notes/Java/1. Core/7.4 Other Features.md",
+    "My Notes/Design/Untitled.md",
+    "My Notes/Design/Desgining 1.md",
+    "My Notes/Design/Untitled 1.md",
     "Questions.md",
-    "My Notes/Java/Puzzles.md",
-    "My Notes/Design/LLD/Principles.md",
-    "My Notes/Java/1. Core/9. Memory & GC.md",
-    "My Notes/Java/4. Testing/4. Annotations.md",
-    "Abstract & Interface.md",
-    "My Notes/Java/1. Core/12 . Conditions Loops.md",
-    "My Notes/Java/1. Core/5. Collection Framework.md",
-    "My Notes/Java/1. Core/7. Java 8 Overview.md",
-    "My Notes/Database/SQL Queries Questions.md",
-    "My Notes/Database/Topics.md",
-    "My Notes/Database/2. Relational DB Concepts/3. SQL Queries.md",
-    "My Notes/Database/2. Relational DB Concepts/4. Indexes.md",
-    "My Notes/Java/1. Core/11. Strings.md",
-    "My Notes/Java/1. Core/1. Basics.md",
-    "My Notes/Java/1. Core/7.3 Stream API.md",
-    "My Notes/Java/2. Spring Boot/Phase 1/14. Propogation Types.md",
-    "My Notes/Design/HLD/Watch.md",
-    "My Notes/Java/2. Spring Boot/Phase 1/15. Bean.md",
-    "My Notes/Java/2. Spring Boot/Phase 1/13. @Transactional.md",
-    "My Notes/Database/13. Interview Specific/Untitled.md",
-    "My Notes/Java/2. Spring Boot/Phase 1/11. Batch & Scheduling.md",
+    "My Notes/Interview Prep/Oracle Prep.md",
+    "My Notes/Design/LLD/SOLID.md",
+    "My Notes/Database/2. Relational DB Concepts/2. ACID (Transaction Management).md",
+    "My Notes/Behaviour/Question.md",
+    "My Notes/Database/4. NoSQL/2. Advantages of NoSQL.md",
+    "My Notes/Database/4. NoSQL/1. Topics on NoSQL Databases.md",
+    "My Notes/Database/4. NoSQL/3. Horizontal Scalability.md",
+    "My Notes/Database/4. NoSQL/4. CAP Theoram.md",
+    "My Notes/Database/7. Data Security and Integrity/Untitled.md",
+    "My Notes/Database/6. Performance Optimization/Untitled.md",
+    "My Notes/Database/5. Distributed Databases/4. Distributed Locking.md",
+    "My Notes/Database/5. Distributed Databases/3. Distributed Transactions.md",
+    "My Notes/Database/5. Distributed Databases/2. Replication.md",
+    "My Notes/Database/5. Distributed Databases/1. Sharding and Partitioning.md",
+    "My Notes/Java/5. Microservices/Topics.md",
+    "My Notes/Java/5. Microservices/3.2 CQRS.md",
+    "My Notes/Java/5. Microservices/3.1 Saga.md",
+    "My Notes/Java/2. Spring Boot/Phase 3/4. API Gateway, Routing, Filters, Load Balancing.md",
+    "My Notes/Java/2. Spring Boot/Phase 3/5. Centralized Configuration.md",
+    "My Notes/Java/2. Spring Boot/Phase 4/1. Inter-Service Communication.md",
     "My Notes/Interview Prep",
     "Untitled",
     "My Notes/Design/HLD/Untitled",

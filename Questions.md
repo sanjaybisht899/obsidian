@@ -1,6 +1,22 @@
 
 ---
+diamond problem proper explaination
+difference between map and flatmap
+how would you improve the resiliency of a service
 
+---
+
+architecure of vymo
+how to explain 
+how we are doing the asynchronous programming 
+how the containters are deployed
+why sorting  is required 
+array.sort() -> implementation
+query for the max v
+
+how I get ticket , how it gets assigned , how we working on it
+
+---
 
 marker interface
 	

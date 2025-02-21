@@ -4,6 +4,14 @@ diamond problem proper explaination
 difference between map and flatmap
 how would you improve the resiliency of a service
 
+Explained the architecture. - Discussed the message queues used and why we didn't use a standard message queue. - Described the use case of Kafka in my application. - Shared a scenario where I had to debug issues with missing messages in Kafka.
+
+
+https://itnext.io/understanding-oauth-2-0-architecture-use-cases-benefits-and-limitations-part-2-bad43ad4176 -- Auth Token
+
+
+### **3. What is the MERGE Statement?** in sql
+
 ---
 
 architecure of vymo
@@ -133,6 +141,7 @@ Explain the process of creating a Docker image for a Spring ~ Boot application.
 How can Spring Boot applications be made more resilient to failures,
 ~ especially in microservices architectures? |
 
+finaally, finilized and final 
 
 For audit purposes, your application requires a "soft delete" feature,
 | where records are |Harked as deleted instead of being removed from the
@@ -681,3 +690,5 @@ caching states
 
 
 Distributed Transactions 
+
+

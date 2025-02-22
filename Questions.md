@@ -1,10 +1,13 @@
 
 ---
-diamond problem proper explaination
-difference between map and flatmap
-how would you improve the resiliency of a service
 
-Explained the architecture. - Discussed the message queues used and why we didn't use a standard message queue. - Described the use case of Kafka in my application. - Shared a scenario where I had to debug issues with missing messages in Kafka.
+Explained the architecture. 
+
+Discussed the message queues used and why we didn't use a standard message queue. 
+
+Described the use case of Kafka in my application.
+
+Shared a scenario where I had to debug issues with missing messages in Kafka.
 
 
 https://itnext.io/understanding-oauth-2-0-architecture-use-cases-benefits-and-limitations-part-2-bad43ad4176 -- Auth Token

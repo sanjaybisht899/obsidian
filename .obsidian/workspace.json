@@ -8,49 +8,47 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fd41df30d37c5b61",
+            "id": "e1fa2be074987867",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questions.md",
+                "file": "Interview Feedback.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
+              "icon": "lucide-file",
+              "title": "Interview Feedback"
+            }
+          },
+          {
+            "id": "72628f687646eeac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Notes/Cloud/Amazon/Questions.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
               "title": "Questions"
             }
           },
           {
-            "id": "1d01173717f1d716",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My Notes/Interview Prep/Oracle Prep.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Oracle Prep"
-            }
-          },
-          {
-            "id": "135a79f991dafa4d",
+            "id": "7dce9b5a872277d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Notes/React/1. Topic.md",
+                "file": "My Notes/Java/3. Hibernate/11. Hibernate Object States.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Topic"
+              "title": "11. Hibernate Object States"
             }
           }
         ],
@@ -86,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CompletableFuture",
+                "query": "Spring Boot Life ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Notes/React/1. Topic.md",
+                "file": "My Notes/Java/3. Hibernate/11. Hibernate Object States.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +135,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1. Topic"
+              "title": "Backlinks for 11. Hibernate Object States"
             }
           },
           {
@@ -146,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Notes/React/1. Topic.md",
+                "file": "My Notes/Java/3. Hibernate/11. Hibernate Object States.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1. Topic"
+              "title": "Outgoing links from 11. Hibernate Object States"
             }
           },
           {
@@ -175,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Notes/React/1. Topic.md",
+                "file": "My Notes/Java/3. Hibernate/11. Hibernate Object States.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. Topic"
+              "title": "Outline of 11. Hibernate Object States"
             }
           },
           {
@@ -214,54 +212,54 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "135a79f991dafa4d",
+  "active": "ebdf87e4ac8e5154",
   "lastOpenFiles": [
-    "My Notes/Others/GPT Prompts.md",
-    "My Notes/React/1. Topic.md",
-    "My Notes/Interview Prep/Oracle Prep.md",
+    "Interview Feedback.md",
+    "My Notes/Cloud/Amazon/Questions.md",
+    "My Notes/React/Questions.md",
+    "My Notes/Cloud/Amazon/Other Features.md",
+    "My Notes/React/5. Redux.md",
+    "My Notes/React/1. Hooks.md",
+    "My Notes/React/0. Topic.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/1. Basics.md",
     "Questions.md",
-    "My Notes/JavaScript/Media/Pasted image 20250128012205.png",
-    "My Notes/Design/Desgining 1.md",
-    "My Notes/Design/Untitled.md",
-    "My Notes/Design/Untitled 1.md",
-    "My Notes/Behaviour/Question.md",
-    "My Notes/Data Structures/Graphs.md",
-    "My Notes/Kafka/6. Operations & Performance.md",
-    "My Notes/Design/LLD/SOLID.md",
-    "Sumit Sheet.md",
-    "My Notes/Kafka/4. Kafka vs. Alternatives.md",
+    "My Notes/Interview Prep/Oracle Prep.md",
+    "My Notes/Java/3. Hibernate/11. Hibernate Object States.md",
+    "My Notes/Java/2. Spring Boot/Phase 1/2. Create Spring Boot.md",
+    "My Notes/Java/3. Hibernate/1. Intro.md",
+    "My Notes/Java/1. Core/1. Basics.md",
     "My Notes/Java/2. Spring Boot/Phase 4/1. Inter-Service Communication.md",
-    "My Notes/Java/1. Core/7.4 Other Features.md",
-    "My Notes/Java/2. Spring Boot/Phase 4/4. Resilience4j.md",
-    "My Notes/Java/2. Spring Boot/Phase 4/5. Circuit Breakers & Retry.md",
-    "My Notes/Java/2. Spring Boot/Phase 4/3. FeignClient.md",
-    "My Notes/Java/2. Spring Boot/Phase 4/2. RestTemplate.md",
-    "My Notes/Kafka/5. Use Cases & Applications.md",
-    "My Notes/Java/1. Core/7.3 Stream API.md",
-    "My Notes/Design/Company Specific/9. Cost Optimization & Performance Tuning.md",
-    "My Notes/Java/1. Core/6. Threads.md",
-    "My Notes/Design/Company Specific/DDD.md",
-    "My Notes/Design/Company Specific/0. Topics.md",
-    "My Notes/Design/Company Specific/8. Team Collaboration & Code Management.md",
+    "My Notes/Java/1. Core/10. Misc.md",
+    "My Notes/Cloud/Amazon/1. S3.md",
+    "My Notes/Cloud/Untitled.md",
+    "My Notes/Cloud/Amazon",
+    "My Notes/Cloud",
+    "My Notes/Design/Untitled 1.md",
+    "My Notes/Design/HLD/Resource.md",
+    "My Notes/Design/Untitled 2.md",
+    "My Notes/Design/Desgining 1.md",
+    "My Notes/Design/Images/Pasted image 20250223105435.png",
+    "My Notes/Design/Images",
+    "My Notes/Design/Images/Pasted image 20250223110025.png",
+    "My Notes/Design/Images/Pasted image 20250223105601.png",
+    "My Notes/Behaviour/Question.md",
+    "My Notes/Others/GPT Prompts.md",
+    "My Notes/JavaScript/Media/Pasted image 20250128012205.png",
+    "My Notes/Design/Untitled.md",
+    "My Notes/Data Structures/Graphs.md",
     "My Notes/Design/Company Specific/Untitled",
     "My Notes/Design/Company Specific",
     "My Notes/Data Structures",
     "My Notes/Interview Prep",
-    "Untitled",
     "My Notes/Design/HLD/Untitled",
     "My Notes/Bash",
     "My Notes/Design/HLD",
-    "My Notes/Design/LLD",
-    "My Notes/Java/5. Microservices",
     "Pasted image 20250128012203.png",
     "My Notes/Java/Media/Pasted image 20250119170609.png",
     "My Notes/Java/2. Spring Boot/Phase 1/Images/Pasted image 20250118233100.png",
     "My Notes/Java/Media/Pasted image 20250111004514.png",
     "Work/Media/Pasted image 20250110135458.png",
     "Work/Media/Pasted image 20250115141146.png",
-    "Pasted image 20250110135340.png",
-    "Pasted image 20250110103245.png",
-    "Pasted image 20250110134602.png",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"

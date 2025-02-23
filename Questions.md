@@ -2,6 +2,15 @@
 ---
 
 
+Widening Conversion in java \
+
+spring gateway? 
+
+stratergy design pattern
+
+
+what is the best way to do the dependecy injection and why (constructor injection)
+
 Discussed the message queues used and why we didn't use a standard message queue. 
 
 Described the use case of Kafka in my application.

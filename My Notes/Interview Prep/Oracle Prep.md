@@ -1,4 +1,319 @@
 
+---
+
+
+System Design - Similar to Inventory Management  
+Requirements:
+
+1. clients are store owners
+2. clients should be able to place orders with 3rd party vendors(external api)
+
+- i started off nice, gathered functional, non-functional etc
+- i asked him if i'm good to start, he said ok
+- but, when i started api section, he asked how can clients view the products? (i missed it in the functional reqs, so i added it)
+- i came up with some high level design with single components i.e. server, db
+- he stopped me at last 15 mins saying, need time for behavioral and asked me if i want to add anything to the design, so, i mentioned i would use a queue between inventory management system and the external api, gave reasons for what type of db, cache i would choose
+- he did not ask me any other questions during the system design other than that 1 functional req i missed
+- i'm not sure if this round went well as interviewer did not hint anything & he stopped me even before i finished my design
+
+Behavioral
+
+1. any procedure or process that you've improved in your team
+2. foreseen a bug & fixed it
+
+---
+- Behavioral questions: **"Why do you want to join Oracle?"**, etc.
+
+
+---
+**Round 5 ( Culter Fit round - taken by another team's manager ) ** - ( Hire )
+
+Standard questions like:  
+What happens during a clash over design ? How would you resolve that  
+What is the reason for changing company ?  
+Any project which have completely taken care from scratch ?  
+Any mentoring which you did during your stint ?
+
+---
+Round 5: Mangerial Round
+
+- Explain HLD of your project
+- How did you manage timelines in your project?
+- How did you mentor junior engineer?
+
+---
+Round 4: Bar raiser round
+
+- We have a gaming scoreboard .
+    
+- Design APIs/methods for provide score dashboard for a game.
+    
+- Feature Requirements:
+    
+    - #1 Fetch score/player details of current player by Name or Id.
+    - #2 UpdateOrCreate score of player by Name or Id.
+    - #3 Fetch player details with highest score
+    - #4 Fetch leaderboard, dashboard in DES order (score).
+    - #5 Delete the player
+- Assumptions:
+    
+    - Names are unique (simplification)
+    - Use Data-structures instead of DB
+
+Behavorial:
+
+- Can you tell me about a time where you did something outside your area of responsibility ?
+- Can you tell me about a time where learned something new,a new tech stack?
+
+---
+**Round 3: Hiring Manager**  
+After the initial introduction, the panel gave me a design problem: to design an OTT platform like Netflix or Prime Video. I started with requirement gathering, both functional and non-functional, and then did a capacity estimation. It was a very interactive interview. The focus was on how the personalized feeds for users would be designed and how movies and TV shows would be streamed to devices. We had a good debate on push vs. pull CDN approaches and the scalability of the herd problem in case of a popular show release. In the end, the Hiring Manager asked me LP questions. This was my best round.
+
+---
+**Third round:** Managerial round  
+She was manager. She started with introduction and project grilling.  
+Then lot of scenario based question:
+
+1. Any colleage inspires you?
+2. Any tech challenge you faced?
+3. Any scenario when your boss changed and how you handled?
+4. Any scenario when you missed deadline?
+5. How you handle priority change?
+6. Why switching job?
+
+Coding question : Variation of [https://leetcode.com/problems/merge-intervals/description/](https://leetcode.com/problems/merge-intervals/description/)  
+First I gave brute force solution and then most optimised solution.
+
+In the end, she asked if i have any question. Again my bad i ask at what stage oracle cloud is. She replied what do u mean by stage. I replied its with clients or its in Poc. He said you can google its going with full-fledged and have many clients.
+
+
+---
+**Round 3:**
+
+**Managerial Round:**
+
+- Questions about reasons for switching and team fit.
+- Project Discussion:
+    - Asked about their project and tech stack.
+- Asked questions how would you perform load testing
+---
+**Round 3:** This was just a discussion with the Senior Director and sort of not an interview.
+
+- Here he explained me about the product and the team which I will be a part of, in detail.
+- He also explained me the difference b/w a product-based company and a service based company
+- He also asked me about my current CTC and said I would get much more than this.
+
+
+
+
+---
+In this round, the discussion revolved around my career achievements:
+
+- I shared my major accomplishments at my current employer, and we had an in-depth conversation about the key projects I’ve worked on.
+- The interviewer also asked some standard leadership and behavioral questions, which allowed me to showcase my problem-solving and collaboration skills.
+
+---
+Round 3 - Round 3: this is where I was grilled on the project, there were some behavioural questions and some based on project, but I really did not understand what exactly the interviewer was looking for, he kept on stopping me and was asking "what you did?" but was not letting me explain anything.  
+- This interview was an average for me.
+
+---
+
+(Round 4)- > Open ended (Monitoring and observability) ->  
+What monitoring tools I have used.  
+How are those tools being used and beneficial.  
+How will you design a highly available, scalable and resilient system.  
+What caching are used in the project, how caching is beenficial and questions around it.  
+What will you do if system goes down how will you handle these scenarios.  
+Questions related to networking, what protocols I know and any one used in project (We are using websocket in our project), explained around that.  
+Cron jobs and how to handle it if it is not running.  
+DB related questions how to improve DB response.  
+What to do if cron misses cleaning DB and DB is throttled with full memory.
+
+(Round 5 - Bar tender by IC4) -> It was taken by someone from different team.  
+Behavioral questions mostly asked.  
+Challeneges faced in current role.  
+Any scenario when you were asked to work apart from the given role.  
+Any initiative you have taken to improve team performance and communication.  
+Any risk you took and it did not go well how do you react to it and your learnings.
+
+Then the questions started with technical side based on my resume regarding the service I developed, what Infra we used and explain use of those infra.  
+E2E working of the service.  
+How do you decide to use SQS as your messaging queue and not other.  
+polling vs eventing mechanism why you moved to eventing based system from polling.
+
+---
+**Round 3:**
+
+1. Low Level Design of Key Value Store.
+2. Another followup to the 1st Question.
+3. Questions on Disk Memory vs In Memory.
+4. Few Questions on REST API.
+
+---
+**HM Round:**
+
+1. Discussed on the past project.
+2. In depth discussion on the search feature that I worked previously as they have a feature in their project too.
+3. Questions on day to day activities etc.
+4. Overall it is just a normal discussion.
+
+---
+
+**Hiring Manager Round:**
+
+1. Discussion on Past Project
+2. Why are you leaving your current company
+3. What are your roles and responsibilities at current company
+4. Few technical questions on APIs
+
+---
+Round 4 - > Taken by Principle Engg Manager (Director )  
+Went deep in my project and current work .  
+Ask to implement multithreaded event bus (like kafka ) .  
+Then had discussions on NQSQL Db . At last fewbehaviour questions and my location prefernce ,  
+This round streached til 1.45 hrs .
+
+---
+
+**Round 3:**
+
+- Design a data pipeline where you dump data for each day in s3 storage location and you need to ingest this on incremental basis into oracle db
+- How much memory of executors do we need to load 1 tb data
+- SQL questions
+- Project discussions in-depth
+---
+
+**Loop interview 4**(1 hour) -
+
+`4 behavioral questions based on Oracle principles, lots of indepth behavioral question on resume.`  
+This was the hiring manager round.
+
+---
+Round 5: Discussion around current project and one coding question. Topological sort based question. But needed to print all the nodes which could be sorted and also the nodes which were part of cycle. Got 30 mins for coding question. Could manage only 6 working test cases out of 13.
+
+---
+(Round 4 )- > HM Round -> Asked me to code Coin change problem and run all tests .  
+Then asked some Behavioral questions , then moved to System design , Discussed deep about NOSQL Database and SAGA Pattern in Microservices .  
+AFTER Interview recruiter told Bar tender is not inclined so she wanted me to give one more round which is again Data Structure and System Design .
+
+---
+Round 3 - Engineering Manager round
+
+1. Discussion on the tech stack used in the current project. Why Oracle Database and not MySQL Difference between both.
+2. Discussion on different Scenarios while dealing with messaging queues.
+3. LLD of any type of booking application. He was interested in Classes for Order creation to Order Execution flow.
+4. How the design will deal with Different modes of payment system , (Credit Card UPI ) - Explained this using Strategy Design Pattern.
+5. Behavioural Questions - Instances when your opinion differed from the rest of the team. What points should be noticed while doing code reviews.
+
+---
+## oracle round 3: Taken by hiring manager
+
+- discussion on projects
+- my project where I faced challenge
+- any time when I had to improve performance
+- Various ways to improve performance
+- check for palindrome
+- next palindrome for a given number
+
+---
+
+
+Round 3 HM round (zoom call) duration ~1 hour  
+- project based dicussion  
+- kafka related question as i mentioned kafka  
+- redis related question as i mentioned redis in my resume  
+- basic encryption/decryption technique  
+- SSL vs TLS  
+- more project related grills
+---
+**Round 3** - Managerial Round
+
+- Had an in-depth discussion about the project that I am working on at my org.
+- Was asked a Hard Leetcode question. Was able to solve it pretty fast.
+- He then asked a follow-up based on coding principles, which I somehow gave a 50-50 answer
+
+---
+**Round 5**  
+Situation based questions
+
+1. Tell me a situation where you have owned the bug for end to end
+2. Indepth explation for project and what are the roles and responsibility
+---
+
+**Third Technical Interview**
+
+This was a system design round but they just wanted to discuss about overall concepts and see my approach to common problems. This time the annoying guy returned with the actual manager of the team. He had joined late so the manager had started without him. Manager asked me vague questions like suppose there is some problem with the data of the customer, how will you go about doing RCA. How will you improve the performance of a system? What if the problem is very rare and happening only with some customers etc. Later the other guy joined and started asking the same questions, but manager was kind enough to interrupt and asked him to ask different questions as I had already answered about that. Then, he asked me about Authorization and Authentication, how does oauth, sso work. I didn't know the exact details, but I had a rough idea so I asked for his permission to take a guess, which he refused. Then there were a few more questions related to database and indexing, which i answered.
+
+Recruiter reached out and said that the feedback was average but they wanted to schedule another round with someone from Chile. Later, they cancelled it and went straight to salary discussion. There was another call scheduled with manager and that annoying guy where they asked a few behaviorial questions.
+
+- How do you handle huge workloads?
+- Why are you leaving your current position? If you have gotten bored with the work within 3 years, what's the guarantee you will not get bored with our work and leave here soon too?
+- What are your thoughts on staying late/ coming in on weekends when there is a specific need?
+- Then they asked me to quote my expectation to them, i was a bit surprised as I was used to having this discussion with the recruiter, not the manager (and definitely not that annoying guy staring in my face) but I gave them the number anyway?
+
+Next, they came back for another discussion with a huge lowball. I was extremely disappointed because after so many rounds and asking my expectation even in the beginning, this is what they could come up with? Later, I negotiated with the recruiter and got it up to somewhat decent (still a lowball in my opinion).
+
+---
+Round-3 (Hiring Manager Round)  
+Structure  
+This round was taken by a Sr. SDE from Oracle. The round started with general introduction of interviewer followed by mine. The interviewer told me about the projects he previously worked on and also asked me about the tech stack . This went on for good 10 minutes.
+
+Then for the next 15–20 minutes, I was asked quite a few Leadership Questions and I had to explain different scenarios depicting those Leadership Principles.
+
+For the rest of the interview (30–35 minutes), I was asked Computer Science Fundamentals spanning across topics like Operating System, OOPS, DBMS, DSA etc.
+
+Computer Science Fundamentals
+
+I was asked around 10–15 questions. Some of them are given below:
+
+Object Oriented Programming and its advantages  
+Difference between Compositon and Inheritance  
+Different types of Scheduling Algorithms  
+Critical Section Problem  
+Difference between Semaphore and Mutex  
+Stored Procedure  
+SQL vs NoSQL
+
+
+---
+**Round 4:**  
+Hr + few technical ques in OS and DBMS  
+OS: Q1. Concurrency vs parallelism?  
+Q2. What is a deadlock? Necessary conditions for deadlock to occur?  
+Q3. Deadlock avoidance, prevention, removal etc. What is RAG?  
+DBMS: Q1. What is normalization and why do we need it?  
+Q2. Asked upto BCNF
+
+---
+**Loop Round 4 - Hiring Manager**
+
+- Discussion on past projects
+- Questions based on resume
+- Behavioural questions
+---
+
+### echnical Round 3 (45 mins)
+
+- An introduction about me, both technically and non-technically, was requested.
+- Explain the different DDL, DML, and DQL commands.
+- Solved a DSA question, a Variation of [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)
+- Discussed Normalization and its purpose.
+- Detailed explanation of 2NF and BCNF was asked.
+- Was asked to explain all 7 OSI Layers along with associated protocols.
+- Explained Multithreading in Java, including codes for Thread and Runnable Interface.
+- Discussed Deadlocks and how to detect them.
+- What are Semaphores.
+- Explain Triggers and PL/SQL
+- I asked one question at the end.
+
+
+
+
+---
+L1 -- Interviews Here
+
+---
+
 **Kafka:**
 
 - Explained the architecture.

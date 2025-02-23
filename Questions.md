@@ -1,13 +1,19 @@
 
 ---
 
-Explained the architecture. 
 
 Discussed the message queues used and why we didn't use a standard message queue. 
 
 Described the use case of Kafka in my application.
 
+career aspirations 
+
+
+code for producer and consumer problem in java
+
 Shared a scenario where I had to debug issues with missing messages in Kafka.
+
+how can we track in java what all endpoints have been hit and track them or log
 
 
 https://itnext.io/understanding-oauth-2-0-architecture-use-cases-benefits-and-limitations-part-2-bad43ad4176 -- Auth Token
@@ -189,6 +195,9 @@ microservices architecutre
 - ****Security:**** What measures would you take to secure a web application, especially regarding user authentication and data encryption?
 - ****Scalability:**** How would you design a scalable system to handle a surge in user traffic, and what tools or services would you use?
 - ****Error Handling:**** Describe your approach to implementing robust error handling in a backend service.
+
+
+async annotation in java
 
 
 amazon data lake 

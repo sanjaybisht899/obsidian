@@ -7,11 +7,7 @@ Certainly! Below is a cleaned-up and more structured version of your introductio
 # **Introduction**
 
 
-Hi, my name is V. Soni. I have around 4.5 years of experience working as a backend engineer, focusing on building scalable and efficient systems that drive impact. Currently, I’m working at C2FO as a Software Development Engineer in the Buyer Experience Tech team, where I’m responsible for ensuring a seamless experience for buyers. Over the past two years, I’ve contributed to designing and developing new features, participating in design discussions, conducting code reviews, and mentoring junior engineers.
 
-In one of my projects, I collaboratively worked with my team to develop a product that led to a $1 million revenue growth. Prior to C2FO, I worked at FAET in the publishing team, where I was responsible for preparing performance reports for the company. There, I contributed to multiple key features that increased user efficiency. In one project, I designed an API interface for book generation, which led to a $120k revenue growth.
-
-Outside of work, I enjoy collaborating with teams to solve complex problems, mentoring junior engineers, working out at the gym, spending time with my family, playing video games, and practicing meditation to stay focused and balanced.
 
 ---
 

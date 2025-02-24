@@ -4,54 +4,11 @@ How do you solve merging conflicts?
 what do you see in the next five years
 
 
----
-Why should we hire you
 
-I think I meet all the requirements of the job and I also feel that I have done well in the hiring and interview process. Hence, I am a good fit for the role.
-
-You shouldn't hire me if you are simply looking for someone who writes a code without understanding the behavioural changes of code and its relevance for large scale applications, who is just there to add something without getting the end to end insights of the requirement, asked by lead to do. As, I'm someone who looks at bigger picture by considering best algorithm, appropriate inbuilt method selection, minute things that incorporating in the code.
-
-I may not be a good hire if you are looking for someone to get the task done as per given directions blindly. I appreciate alternative thinking and exploring different effective ways of doing things and value innovation and constructive discussion for the betterment and greater good of the organization
 
 ---
 
 
-When taking a **behavioral interview**, you should focus on assessing the candidate’s past experiences, problem-solving skills, teamwork, leadership, and cultural fit. The best way to do this is by using the **STAR method** (Situation, Task, Action, Result) to structure your questions.
-
-### **Key Areas to Cover in a Behavioral Interview**
-
-#### **1. General Introduction**
-
-- Tell me about yourself and your professional background.
-- What motivated you to apply for this role?
-- How would you describe yourself in three words?
-
-#### **2. Past Work Experience & Problem-Solving**
-
-- Can you describe a challenging project you worked on? What was your role?
-- Tell me about a time when you faced a major challenge at work. How did you handle it?
-- Give an example of a time you had to make a difficult decision. How did you approach it?
-- Have you ever had to deal with a project deadline that seemed impossible? What did you do?
-
-#### **3. Teamwork & Collaboration**
-
-- Tell me about a time you worked with a difficult team member. How did you manage the situation?
-- Have you ever had to work with someone whose working style was different from yours? How did you handle it?
-- Describe a situation where you helped a teammate who was struggling.
-- How do you handle conflicts in a team setting?
-
-#### **4. Leadership & Initiative**
-
-- Have you ever taken the lead on a project? What was the outcome?
-- Tell me about a time you had to motivate a team during a difficult period.
-- Have you ever proposed a new idea or improvement at work? How was it received?
-- Describe a time you had to take responsibility for a mistake.
-
-#### **5. Adaptability & Handling Pressure**
-
-- Tell me about a time when things did not go as planned. How did you handle it?
-- Have you ever had to learn a new skill or technology quickly? How did you do it?
-- How do you handle sudden changes in priorities or last-minute requests?
 
 #### **6. Communication & Stakeholder Management**
 

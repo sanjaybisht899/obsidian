@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview Feedback.md",
+                "file": "TODO/Interview Feedback.md",
                 "mode": "source",
                 "source": false
               },
@@ -24,20 +24,49 @@
             }
           },
           {
-            "id": "ba8e0830edb42114",
+            "id": "823ffab325dd6598",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Notes/Java/1. Core/5. Collection Framework.md",
+                "file": "My Notes/Verbal Prep/1. General Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Collection Framework"
+              "title": "1. General Introduction"
+            }
+          },
+          {
+            "id": "7d57cbb3e5d57bb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Notes/Verbal Prep/1. General Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. General Introduction"
+            }
+          },
+          {
+            "id": "23ed693108e08da7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO/Interview Feedback.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Interview Feedback"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview Feedback.md",
+                "file": "My Notes/Verbal Prep/1. General Introduction.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +149,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Interview Feedback"
+              "title": "Backlinks for 1. General Introduction"
             }
           },
           {
@@ -129,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview Feedback.md",
+                "file": "My Notes/Verbal Prep/1. General Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Interview Feedback"
+              "title": "Outgoing links from 1. General Introduction"
             }
           },
           {
@@ -158,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview Feedback.md",
+                "file": "My Notes/Verbal Prep/1. General Introduction.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Interview Feedback"
+              "title": "Outline of 1. General Introduction"
             }
           },
           {
@@ -197,13 +226,22 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "e1fa2be074987867",
+  "active": "7d57cbb3e5d57bb7",
   "lastOpenFiles": [
-    "My Notes/Java/1. Core/5. Collection Framework.md",
-    "Interview Feedback.md",
-    "My Notes/Technologies/Redis/Redis.md",
+    "My Notes/Verbal Prep/Question.md",
+    "TODO/Interview Feedback.md",
+    "TODO/Questions.md",
+    "TODO/Sumit Sheet.md",
+    "My Notes/Verbal Prep/1. General Introduction.md",
+    "My Notes/Interview Prep/Oracle Prep.md",
+    "TODO/Abstract & Interface.md",
+    "TODO",
+    "My Notes/Java/1. Core/7.4 Other Features.md",
+    "My Notes/Java/1. Core/7. Java 8 Overview.md",
     "My Notes/Java/1. Core/6. Threads.md",
+    "My Notes/Java/1. Core/5. Collection Framework.md",
     "My Notes/Java/1. Core/4. Exception Handling.md",
+    "My Notes/Technologies/Redis/Redis.md",
     "My Notes/Cloud/Amazon/Questions.md",
     "My Notes/Technologies/Redis/Questions to Prep.md",
     "My Notes/Technologies/Untitled.md",
@@ -215,19 +253,11 @@
     "My Notes/React/1. Hooks.md",
     "My Notes/React/0. Topic.md",
     "My Notes/Java/2. Spring Boot/Phase 1/1. Basics.md",
-    "Questions.md",
-    "My Notes/Interview Prep/Oracle Prep.md",
     "My Notes/Java/2. Spring Boot/Phase 1/2. Create Spring Boot.md",
     "My Notes/Java/3. Hibernate/1. Intro.md",
     "My Notes/Java/1. Core/1. Basics.md",
-    "My Notes/Java/2. Spring Boot/Phase 4/1. Inter-Service Communication.md",
-    "My Notes/Java/1. Core/10. Misc.md",
-    "My Notes/Cloud/Amazon/1. S3.md",
-    "My Notes/Cloud/Untitled.md",
     "My Notes/Cloud/Amazon",
     "My Notes/Cloud",
-    "My Notes/Design/Untitled 1.md",
-    "My Notes/Design/HLD/Resource.md",
     "My Notes/Design/Images/Pasted image 20250223105435.png",
     "My Notes/Design/Images",
     "My Notes/Design/Images/Pasted image 20250223110025.png",
@@ -238,7 +268,6 @@
     "My Notes/Data Structures",
     "My Notes/Interview Prep",
     "My Notes/Design/HLD/Untitled",
-    "My Notes/Bash",
     "Pasted image 20250128012203.png",
     "My Notes/Java/Media/Pasted image 20250119170609.png",
     "My Notes/Java/2. Spring Boot/Phase 1/Images/Pasted image 20250118233100.png",

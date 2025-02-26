@@ -2,6 +2,25 @@
 ---
 
 
+
+**Round 1: Technical Interview (DevOps Basics)**
+
+Git: branching, merging, and basic commands.  
+CI/CD: pipelines with Jenkins/CircleCI, Docker integration.  
+Containerization: Docker, Docker Compose.  
+IaC: Terraform for AWS resources (EC2, VPC).  
+Linux: basic commands, scripting, system monitoring.
+
+**Round 2: Technical Interview (Advanced DevOps)**
+
+Kubernetes: deployments, Helm charts, ingress.  
+Monitoring & Logging: Prometheus, Grafana, ELK Stack.  
+AWS: ELB, auto-scaling, IAM policies.  
+Security: managing secrets, securing CI/CD.
+
+
+---
+
 System Design - Similar to Inventory Management  
 Requirements:
 

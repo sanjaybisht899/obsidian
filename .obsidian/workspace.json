@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c0dfe2295f23efa4",
+        "id": "9cda9916901f28c5",
         "type": "tabs",
         "children": [
           {
-            "id": "c2efa4769b75f388",
+            "id": "0737b27b13e0195a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "My Notes/Interviews/Verbal Prep/0. Resume Prep.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "0. Resume Prep"
             }
           }
         ]
@@ -138,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "My Notes/Interviews/Verbal Prep/0. Resume Prep.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 0. Resume Prep"
             }
           },
           {
@@ -157,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -176,34 +181,36 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "c2efa4769b75f388",
+  "active": "0737b27b13e0195a",
   "lastOpenFiles": [
-    "My Notes/Java/Roadmap.md",
-    "My Notes/Java/Puzzles.md",
-    "My Notes/Java/2. Spring Boot/Phase 4/3. FeignClient.md",
-    "My Notes/Java/2. Spring Boot/Phase 4/2. RestTemplate.md",
-    "My Notes/Java/2. Spring Boot/Phase 2/3. Security.md",
-    "My Notes/Java/2. Spring Boot/Phase 2/2. Global Exception.md",
-    "My Notes/Java/2. Spring Boot/Phase 2/14. Retention Policies.md",
-    "My Notes/Java/2. Spring Boot/Phase 2/12. Reflection.md",
-    "My Notes/Java/2. Spring Boot/Phase 2/11. Idempotency.md",
-    "My Notes/Java/2. Spring Boot/Phase 2/8. A.O.P.md",
-    "My Notes/Java/2. Spring Boot/Phase 1/15. Bean.md",
-    "My Notes/Java/2. Spring Boot/Phase 1/14. Propogation Types.md",
-    "My Notes/Java/2. Spring Boot/Phase 1/13. @Transactional.md",
-    "My Notes/Java/2. Spring Boot/Phase 2/13. Custom Annotations.md",
-    "My Notes/Java/2. Spring Boot/Phase 1/4. Annotations.md",
-    "My Notes/Java/2. Spring Boot/Phase 1/3. Maven and Gradle.md",
-    "My Notes/Java/2. Spring Boot/Phase 1/2. Create Spring Boot.md",
-    "My Notes/Java/2. Spring Boot/Phase 1/1. Basics.md",
-    "My Notes/Design/LLD/SOLID.md",
-    "My Notes/Java/2. Spring Boot/Phase 1/5. Spring Profile.md",
-    "My Notes/Java/2. Spring Boot/Phase 1/6. HTTP Annotations.md",
-    "My Notes/Java/1. Core/11. Strings.md",
-    "My Notes/Java/1. Core/12 . Conditions Loops.md",
-    "My Notes/Java/1. Core/10. Misc.md",
-    "My Notes/Java/1. Core/9. Memory & GC.md",
-    "My Notes/Java/1. Core/8. Java Versions.md",
+    "My Notes/Database/5. Distributed Databases/1. Sharding and Partitioning.md",
+    "My Notes/Database/6. Performance Optimization/Untitled.md",
+    "My Notes/Database/4. NoSQL/4. CAP Theoram.md",
+    "My Notes/Database/4. NoSQL/3. Horizontal Scalability.md",
+    "My Notes/Database/4. NoSQL/2. Advantages of NoSQL.md",
+    "My Notes/Database/4. NoSQL/1. Topics on NoSQL Databases.md",
+    "My Notes/Database/1. Database Basics/3. Tables & Keys.md",
+    "My Notes/Database/1. Database Basics/2. Data Types.md",
+    "My Notes/Interviews/Verbal Prep/0. Resume Prep.md",
+    "My Notes/Technologies/Untitled.md",
+    "My Notes/Interviews/Companies",
+    "My Notes/Languages",
+    "TODO/Abstract & Interface.md",
+    "TODO/Interview Feedback.md",
+    "TODO/Questions.md",
+    "TODO/Sumit Sheet.md",
+    "My Notes/Languages/Java/Roadmap.md",
+    "My Notes/Languages/Java/Puzzles.md",
+    "My Notes/Languages/Java/2. Spring Boot/Phase 4/3. FeignClient.md",
+    "My Notes/Languages/Java/2. Spring Boot/Phase 4/2. RestTemplate.md",
+    "My Notes/Languages/Java/2. Spring Boot/Phase 2/3. Security.md",
+    "My Notes/Languages/Java/2. Spring Boot/Phase 2/2. Global Exception.md",
+    "My Notes/Languages/Java/2. Spring Boot/Phase 2/14. Retention Policies.md",
+    "My Notes/Languages/Java/2. Spring Boot/Phase 2/12. Reflection.md",
+    "My Notes/Languages/Java/2. Spring Boot/Phase 2/11. Idempotency.md",
+    "My Notes/Languages/Java/2. Spring Boot/Phase 2/8. A.O.P.md",
+    "My Notes/Languages/Java/2. Spring Boot/Phase 1/15. Bean.md",
+    "My Notes/Languages/Java/2. Spring Boot/Phase 1/14. Propogation Types.md",
     "My Notes/Interviews",
     "TODO",
     "My Notes/Technologies/Redis",
@@ -213,15 +220,13 @@
     "My Notes/Design/Images",
     "My Notes/Design/Images/Pasted image 20250223110025.png",
     "My Notes/Design/Images/Pasted image 20250223105601.png",
-    "My Notes/JavaScript/Media/Pasted image 20250128012205.png",
+    "My Notes/Languages/JavaScript/Media/Pasted image 20250128012205.png",
     "My Notes/Design/Company Specific/Untitled",
     "My Notes/Design/Company Specific",
-    "My Notes/Data Structures",
-    "My Notes/Interview Prep",
     "Pasted image 20250128012203.png",
-    "My Notes/Java/Media/Pasted image 20250119170609.png",
+    "My Notes/Languages/Java/Media/Pasted image 20250119170609.png",
     "My Notes/Java/2. Spring Boot/Phase 1/Images/Pasted image 20250118233100.png",
-    "My Notes/Java/Media/Pasted image 20250111004514.png",
+    "My Notes/Languages/Java/Media/Pasted image 20250111004514.png",
     "Work/Media/Pasted image 20250110135458.png",
     "Work/Media/Pasted image 20250115141146.png",
     "Untitled.canvas",

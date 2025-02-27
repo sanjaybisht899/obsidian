@@ -1,5 +1,41 @@
 
 ---
+- **Binary Logging (Binlog)**: You weren't sure about it. Binlog is essential for replication and recovery in MySQL. Learn how it works internally.
+- **Master-Master Replication**: You knew Master-Slave but were unsure about Master-Master. Understand how it handles conflicts and replication.
+- - **Indexing Mechanism**: Your answer was vague. Learn about **B-Trees, Hash Indexing, and Full-Text Indexes** to explain them better.
+
+Pessimistic vs Optimistic Locking: You gave a high-level answer but missed the core difference (pessimistic locks data upfront, while optimistic allows multiple readers but validates before writing).
+
+
+answer these also
+
+LRU Cache Mechanism: You understood eviction but didn’t mention the doubly linked list and hashmap combination used in LRU implementation.
+
+
+
+- **Custom Class Loader**: You were unsure. Learn about `ClassLoader` and `findClass()`.
+- **C1 & C2 Compilers**: These are JIT compilers in JVM, with **C1 for client optimizations (faster startup)** and **C2 for server optimizations (better long-term performance)**.
+- **runAsync vs supplyAsync**: `runAsync()` doesn’t return a value, whereas `supplyAsync()` returns a result.
+- - **Interface of CompletableFuture**: It implements `Future` and `CompletionStage`.
+-
+
+- **Encapsulation vs. Abstraction:** Your initial explanation of the difference between encapsulation and abstraction was unclear and somewhat inaccurate.
+    
+- **Static Methods:** Your understanding of static methods and their relationship to classes/objects seemed muddled.
+    
+- **Interfaces vs. Abstract Classes:** Your explanation of the differences between interfaces and abstract classes, including the new features in Java 8+, was not precise.
+
+	List<String> arr = List.of("hello world hello", "world of Java", "hello Java", "hello world of Java");
+
+
+- **Data Structures:**
+    
+    - **Arrays vs. ArrayLists vs. LinkedLists:** There was significant confusion regarding the properties and appropriate use cases for arrays, ArrayLists, and LinkedLists. You seemed unaware of memory allocation differences and time complexity implications.
+        
+    - **Circular Linked Lists:** While you suggested the two-pointer approach, the explanation was not entirely clear.
+
+
+
 what if we have 2 methods in functional interface what will happen?
 
 

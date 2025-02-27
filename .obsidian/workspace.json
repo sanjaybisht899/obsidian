@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9cda9916901f28c5",
+        "id": "4e4317fb8d60964e",
         "type": "tabs",
         "children": [
           {
-            "id": "0737b27b13e0195a",
+            "id": "7cddd9b600dadbe9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My Notes/Interviews/Verbal Prep/0. Resume Prep.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "0. Resume Prep"
+              "title": "New tab"
             }
           }
         ]
@@ -142,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Notes/Interviews/Verbal Prep/0. Resume Prep.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 0. Resume Prep"
+              "title": "Outline"
             }
           },
           {
@@ -181,8 +176,12 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "0737b27b13e0195a",
+  "active": "7cddd9b600dadbe9",
   "lastOpenFiles": [
+    "My Notes/Interviews/Interview Prep/Sapient.md",
+    "TODO/Questions.md",
+    "My Notes/Interviews/Verbal Prep/1. General Introduction.md",
+    "My Notes/Interviews/Verbal Prep/0. Resume Prep.md",
     "My Notes/Database/5. Distributed Databases/1. Sharding and Partitioning.md",
     "My Notes/Database/6. Performance Optimization/Untitled.md",
     "My Notes/Database/4. NoSQL/4. CAP Theoram.md",
@@ -191,13 +190,11 @@
     "My Notes/Database/4. NoSQL/1. Topics on NoSQL Databases.md",
     "My Notes/Database/1. Database Basics/3. Tables & Keys.md",
     "My Notes/Database/1. Database Basics/2. Data Types.md",
-    "My Notes/Interviews/Verbal Prep/0. Resume Prep.md",
     "My Notes/Technologies/Untitled.md",
     "My Notes/Interviews/Companies",
     "My Notes/Languages",
     "TODO/Abstract & Interface.md",
     "TODO/Interview Feedback.md",
-    "TODO/Questions.md",
     "TODO/Sumit Sheet.md",
     "My Notes/Languages/Java/Roadmap.md",
     "My Notes/Languages/Java/Puzzles.md",
@@ -209,8 +206,6 @@
     "My Notes/Languages/Java/2. Spring Boot/Phase 2/12. Reflection.md",
     "My Notes/Languages/Java/2. Spring Boot/Phase 2/11. Idempotency.md",
     "My Notes/Languages/Java/2. Spring Boot/Phase 2/8. A.O.P.md",
-    "My Notes/Languages/Java/2. Spring Boot/Phase 1/15. Bean.md",
-    "My Notes/Languages/Java/2. Spring Boot/Phase 1/14. Propogation Types.md",
     "My Notes/Interviews",
     "TODO",
     "My Notes/Technologies/Redis",
